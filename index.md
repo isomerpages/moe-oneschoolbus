@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: School staff guides
           description: to view school bus data
-          url: https://google.com
+          url: https://schoolbus-guides.moe.edu.sg/school
         - title: bus operator guides
           description: to key in school bus data
           url: https://gmail.com
