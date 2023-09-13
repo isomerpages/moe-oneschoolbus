@@ -13,19 +13,20 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: School staff guides
+          description: to view school bus data
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: bus operator guides
+          description: to key in school bus data
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: bus driver guides
+          description: to take student attendance
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
+      title: What is OneSchoolBus?
+      description: OneSchoolBus allows school users to view and manage data relating
+        to school bus operations, and an app for drivers to take student
+        attendance.
       button: Button text
       url: /faq/
 ---
