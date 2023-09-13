@@ -1,4 +1,5 @@
 collections:
   guides-for-school-staff:
     output: true
-    order: []
+    order:
+      - Guide for School Staff.md
