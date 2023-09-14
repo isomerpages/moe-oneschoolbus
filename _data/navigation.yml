@@ -1,8 +1,8 @@
 logo: /images/bus icon.png
 links:
-  - title: Example Page
-    url: /example-page/
-  - title: Guides for School Staff
+  - title: USER GUIDES
     collection: guides-for-school-staff
+  - title: DRIVER FAQ
+    url: /example-page/
   - title: Contact Us
     url: /contact-us/
