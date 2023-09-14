@@ -2,5 +2,5 @@ collections:
   guides-for-school-staff:
     output: true
     order:
-      - Example Title.md
+      - Guides For School Staff.md
       - Navigating One School Bus.md
