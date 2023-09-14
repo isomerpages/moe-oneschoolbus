@@ -1,31 +1,32 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: OneSchoolBus(OSB) Guides
+description: OSB user guides for school staff, bus coordinators and bus drivers.
+image: /images/bus icon.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: 2024 Data Exercise will begin in January.
 sections:
   - hero:
-      title: One School Bus
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      title: OneSchoolBus
+      background: /images/bus banner crop.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: School staff guides
+          description: to view school bus data
+          url: https://schoolbus-guides.moe.edu.sg/school
+        - title: bus operator guides
+          description: to key in school bus data
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: bus driver guides
+          description: to take student attendance
           url: /privacy/
+      subtitle: Managing your bus and student data in one place.
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
+      title: What is OneSchoolBus?
+      description: OneSchoolBus allows school users to view and manage data relating
+        to school bus operations, and an app for drivers to take student
+        attendance.
       button: Button text
       url: /faq/
 ---
