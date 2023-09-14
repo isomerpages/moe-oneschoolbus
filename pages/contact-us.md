@@ -8,9 +8,9 @@ locations:
       - 285 Ghim Moh Road
       - Singapore 279622
       - ""
-    title: MOE IFSD
     operating_hours: []
     maps_link: ""
+    title: MOE IFSD
 contacts:
   - content:
       - phone: ""
