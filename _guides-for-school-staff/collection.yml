@@ -2,4 +2,5 @@ collections:
   guides-for-school-staff:
     output: true
     order:
+      - Guides For School Staff.md
       - Navigating One School Bus.md

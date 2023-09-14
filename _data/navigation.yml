@@ -1,8 +1,12 @@
 logo: /images/bus icon.png
 links:
-  - title: USER GUIDES
+  - title: School staff user guides
     collection: guides-for-school-staff
-  - title: BUS OPERATOR FAQ
+  - title: Bus Operator user guides
+    collection: guides-for-bus-operators
+  - title: Bus Driver User Guides
+    collection: guides-for-bus-drivers
+  - title: "FAQ "
     url: /faq/
   - title: Contact Us
     url: /contact-us/
