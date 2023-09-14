@@ -1,6 +1,6 @@
 title: OneSchoolBus(OSB) Guides
 url: https://schoolbus-guides.moe.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/bus icon.png
 colors:
   primary-color: "#ffd2a9"
   secondary-color: "#000000"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d2cnyhs4f83amk.amplifyapp.com
 prod: https://master.d2cnyhs4f83amk.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/bus icon.png
 is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
