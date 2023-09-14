@@ -5,7 +5,7 @@ description: ""
 ---
 
 
-OneSchoolBus consists of a portal for school users, bus operators, and MOE HQ to view and manage data relating to school bus operations, and an app for drivers to take student attendance.
+![]()OneSchoolBus consists of a portal for school users, bus operators, and MOE HQ to view and manage data relating to school bus operations, and an app for drivers to take student attendance.
 
 It allows data to flow seamlessly across various stakeholders, reducing communication friction and allowing users to see the most updated data.
 
