@@ -8,7 +8,7 @@ notification: 2024 Data Exercise will begin in January.
 sections:
   - hero:
       title: OneSchoolBus
-      background: /images/bus banner crop.png
+      background: /images/osb poster 5.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
