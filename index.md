@@ -27,6 +27,6 @@ sections:
       description: OneSchoolBus allows school users to view and manage data relating
         to school bus operations, and an app for drivers to take student
         attendance.
-      button: Button text
-      url: /faq/
+      button: Click here to read more
+      url: /whatisosb
 ---
