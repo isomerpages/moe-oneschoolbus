@@ -8,7 +8,7 @@ notification: 2024 Data Exercise will begin in January.
 sections:
   - hero:
       title: OneSchoolBus
-      background: /images/bus banner.png
+      background: /images/bus banner crop.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -21,6 +21,7 @@ sections:
         - title: bus driver guides
           description: to take student attendance
           url: /privacy/
+      subtitle: Managing your bus and student data in one place.
   - infobar:
       title: What is OneSchoolBus?
       description: OneSchoolBus allows school users to view and manage data relating
