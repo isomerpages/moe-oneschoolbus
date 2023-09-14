@@ -4,11 +4,10 @@ title: OneSchoolBus(OSB) Guides
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: 2024 Data Exercise will begin in January.
 sections:
   - hero:
-      title: One School Bus
-      subtitle: Hero subtitle
+      title: OneSchoolBus
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
