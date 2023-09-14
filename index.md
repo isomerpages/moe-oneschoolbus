@@ -2,7 +2,7 @@
 layout: homepage
 title: OneSchoolBus(OSB) Guides
 description: OSB user guides for school staff, bus coordinators and bus drivers.
-image: /images/isomer-logo.svg
+image: /images/bus icon.png
 permalink: /
 notification: 2024 Data Exercise will begin in January.
 sections:
