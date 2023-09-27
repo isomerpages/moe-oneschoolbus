@@ -2,5 +2,6 @@ collections:
   guides-for-bus-operators:
     output: true
     order:
+      - How do I bulk add or update data using excel?.md
       - How do I create or edit bus routes?.md
       - Getting Started for Bus Operators.md
