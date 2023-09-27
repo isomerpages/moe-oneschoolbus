@@ -1,4 +1,5 @@
 collections:
   guides-for-bus-operators:
     output: true
-    order: []
+    order:
+      - Getting Started for Bus Operators.md
