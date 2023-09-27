@@ -3,7 +3,7 @@ url: https://schoolbus-guides.moe.edu.sg
 favicon: /images/bus icon.png
 colors:
   primary-color: "#ff8c00"
-  secondary-color: "#3182ce"
+  secondary-color: "#cd5a00"
   media-colors:
     - title: media-color-one
       color: "#49759a"
