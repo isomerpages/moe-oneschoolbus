@@ -21,8 +21,7 @@ Logging in using MIMS
     ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aa2e9cb2-c2de-43f5-b7b2-d7612306c676/Untitled.png)
     
 3.  Upon successful login, you will be redirected to the OSB students page for your school which will look like the screenshot above.
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e2575ad6-26b1-441e-b15f-199a75f3b7c7/Untitled.png)
+![](https://oneschoolbus.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe2575ad6-26b1-441e-b15f-199a75f3b7c7%2FUntitled.png?table=block&id=1e50fb14-c994-4d4c-8c2e-a17afede5016&spaceId=03dd1dc8-cfa6-48f9-bb2c-83758dd144e6&width=2000&userId=&cache=v2)
     
 4.  If you receive an error like `**You do not have permissions to access to the school bus appliction**` as shown above, you will need to request for access from the MIMS dashboard.
     
