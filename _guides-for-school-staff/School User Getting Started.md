@@ -14,8 +14,8 @@ Logging in using MIMS
 ---------------------
 
 1.  After going to [https://go.gov.sg/osb-school](https://go.gov.sg/osb-school), you will be redirected to the MIMS login portal after pressing the `LOGIN` button.
+![](/images/mimsloginpage.png)
 
-    
 2.  Enter your MIMS login credentials and press `Sign in`.
     
     ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aa2e9cb2-c2de-43f5-b7b2-d7612306c676/Untitled.png)
@@ -39,7 +39,7 @@ _************************If you do not have access, please refer to point 4.****
 What next?
 ----------
 
-*   You may learn how to navigate the OSB portal here: [How do I navigate OSB](https://www.notion.so/How-do-I-navigate-OSB-3fdab4f1c78f4e93ae9f514c76f9c5a4?pvs=21)
-*   If there is no data in the system yet, please add your bus operator to OSB here: [How do I add operator to OSB](https://www.notion.so/49113ea481294b82a6b4e95c4907cd76?pvs=21)
-*   Do inform your bus operator(s) to upload their data to OSB. A guide for them can be found on [https://go.gov.sg/osb-guide](https://go.gov.sg/osb-guide).
-*   If you need to take part in the annual MOE HQ School Bus Exercise, you may follow the instructions here: [How do I complete the MOE HQ School Bus Exercise (Schools)?](https://www.notion.so/How-do-I-complete-the-MOE-HQ-School-Bus-Exercise-Schools-e86cb7a734cc43c3983317ffdf08d61a?pvs=21)
+*   You may learn how to navigate the OSB portal here: 
+*   If there is no data in the system yet, please add your bus operator to OSB here: 
+*   Do inform your bus operator(s) to upload their data to OSB. A guide for them can be found on 
+*   If you need to take part in the annual MOE HQ School Bus Exercise, you may follow the instructions here:
