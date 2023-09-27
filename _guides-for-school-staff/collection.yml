@@ -2,7 +2,6 @@ collections:
   guides-for-school-staff:
     output: true
     order:
-      - Guides For School Staff.md
       - Getting Started for School Users.md
       - Navigating One School Bus.md
       - How do I request for Access to OSB?.md
