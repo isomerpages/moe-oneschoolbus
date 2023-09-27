@@ -2,6 +2,7 @@ collections:
   guides-for-bus-operators:
     output: true
     order:
+      - How do I see, add, edit, and delete buses?.md
       - How to add relief driver?.md
       - How do I edit my company profile?.md
       - How do I add, edit, or delete staff accounts?.md
