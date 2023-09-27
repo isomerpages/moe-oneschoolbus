@@ -2,6 +2,7 @@ collections:
   guides-for-school-staff:
     output: true
     order:
+      - How do I complete the MOE HQ School Bus Exercise (Schools)?.md
       - School User Getting Started.md
       - Guides For School Staff.md
       - Navigating One School Bus.md
