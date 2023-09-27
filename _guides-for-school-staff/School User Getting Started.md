@@ -6,7 +6,7 @@ description: ""
 Getting Started for School Users
 ================================
 
-Welcome to our school application for OneSchoolBus! Head on to [https://go.gov.sg/osb-school](https://go.gov.sg/osb-school) on your desktop to begin using the application.
+Welcome to our school application for OneSchoolBus! Head on to https://go.gov.sg/osb-school[https://go.gov.sg/osb-school](https://go.gov.sg/osb-school) on your desktop to begin using the application.
 
 * * *
 
