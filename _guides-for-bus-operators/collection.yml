@@ -2,6 +2,7 @@ collections:
   guides-for-bus-operators:
     output: true
     order:
+      - How do I edit my company profile?.md
       - How do I add, edit, or delete staff accounts?.md
       - How do I see staff accounts?.md
       - How do I download attendance reports?.md
