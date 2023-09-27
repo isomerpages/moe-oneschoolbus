@@ -2,6 +2,7 @@ collections:
   guides-for-bus-operators:
     output: true
     order:
+      - How do I add, edit, or delete students?.md
       - How do I see my students?.md
       - How do I export bus routes into an Excel file?.md
       - How do I delete a bus route?.md
