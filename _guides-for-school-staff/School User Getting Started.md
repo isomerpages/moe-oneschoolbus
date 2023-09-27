@@ -14,8 +14,7 @@ Logging in using MIMS
 ---------------------
 
 1.  After going to [https://go.gov.sg/osb-school](https://go.gov.sg/osb-school), you will be redirected to the MIMS login portal after pressing the `LOGIN` button.
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e56e670-735c-4f4f-92e3-2af84be029ae/Untitled.png)
+
     
 2.  Enter your MIMS login credentials and press `Sign in`.
     
