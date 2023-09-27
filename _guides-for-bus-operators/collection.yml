@@ -2,4 +2,5 @@ collections:
   guides-for-bus-operators:
     output: true
     order:
+      - How do I create or edit bus routes?.md
       - Getting Started for Bus Operators.md
