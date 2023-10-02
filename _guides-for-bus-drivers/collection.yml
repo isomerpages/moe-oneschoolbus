@@ -1,4 +1,7 @@
 collections:
   guides-for-bus-drivers:
     output: true
-    order: []
+    order:
+      - Getting Started for Bus Drivers and attendants.md
+      - How to take student attendance?.md
+      - How to add the Drivers app to homescreen?.md
