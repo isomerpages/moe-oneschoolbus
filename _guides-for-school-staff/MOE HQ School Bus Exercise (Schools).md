@@ -51,8 +51,8 @@ Example of student required for verification is shown below:
     *   All bus operators (for schools with multiple operators) have also clicked **NOTIFY SCHOOL** button.
 	
 ![](/images/School/MOE%20HQ%20Data%20Exercise/school%20data%20exercise%20progress%20100%20percent.png)
-	
-		💡 Please strongly urge your bus operators to submit the data **ahead of the deadline!**
+
+💡 Please strongly urge your bus operators to submit the data ahead of the deadline!
 
 *   You'll arrive at a page where you can either fill in or confirm the required FAS statuses of the students if you've already entered them on the previous page.
 
@@ -73,7 +73,7 @@ Example of student required for verification is shown below:
 
 ##### 5\. How do I resubmit data to HQ after there are changes to data by bus operators?
 
-*   Upon submission, you are also able to click `**RESUBMIT**` button to resubmit current data to MOE as an option if there are changes made to the data by the bus operators.
+*   Upon submission, you are also able to click **RESUBMIT** button to resubmit current data to MOE as an option if there are changes made to the data by the bus operators.
 *   Only the last submission will be recorded and a date / timestamp will be shown upon submission/resubmission.
 *   The requirements to enable a successful resubmit will include steps 1 to 4 above.
-*   _Please note that once the Data Exercise deadline has passed, you will **not be allowed** to `**RESUBMIT`._\*\*</aside>
+*   _Please note that once the Data Exercise deadline has passed, you will **not be allowed** to **RESUBMIT**</aside>
