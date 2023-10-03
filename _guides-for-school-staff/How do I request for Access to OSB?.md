@@ -11,23 +11,23 @@ On this page, you will learn how to request for access to OneSchoolBus. Once the
 ----------
 ##### Requesting for Access to OSB in MIMS
 
-1.  If you do not have access and you will like to access OSB, please go to [](https://mims.moe.gov.sg/)[https://mims.moe.gov.sg](https://mims.moe.gov.sg) to log in to the MIMS portal.
+1. If you do not have access and you will like to access OSB, please go to [](https://mims.moe.gov.sg/)[https://mims.moe.gov.sg](https://mims.moe.gov.sg) to log in to the MIMS portal.
     
 ![](/images/School/How%20do%20I%20request%20access%20to%20OSB/screenshot%202023-10-03%20095822.png)
     
-2.  After entering your MIMS login credentials, you will be brought to the dash board for MIMS. Select MIMS Identity Portal
+2. After entering your MIMS login credentials, you will be brought to the dash board for MIMS. Select MIMS Identity Portal
 
 ![](/images/School/How%20do%20I%20request%20access%20to%20OSB/screenshot%202023-10-03%20100220.png)
     
-3.  Tap on `Access` and click on `Request`.
+3. Tap on `Access` and click on `Request`.
     
 ![](/images/School/How%20do%20I%20request%20access%20to%20OSB/untitled%20(5).png)
     
-4.  Scroll to the bottom of the next page to locate the OSB app
+4. Scroll to the bottom of the next page to locate the OSB app
     
 ![](/images/School/How%20do%20I%20request%20access%20to%20OSB/untitled%20(3).png)
     
-5.  Clicking on icon for OneSchoolBus Account and a pop up will appear below
+5. Clicking on icon for OneSchoolBus Account and a pop up will appear below
     
 ![](/images/School/How%20do%20I%20request%20access%20to%20OSB/untitled%20(4).png)
     
