@@ -10,10 +10,9 @@ On this page, you will learn how to take student attendance using OneSchoolBus. 
 
 **If you are a bus operator, please assist your drivers/attendants with these instructions**.
 
-* * *
-
-##### Step 1: Select bus route
 ----------
+##### Step 1: Select bus route
+
 
 *   Select the `MORNING` (orange) or `AFTERNOON` (blue) bus route you will like to take attendance for.
 *   Using the `🔍` icon, you can search for student names on the bus route
@@ -23,8 +22,9 @@ On this page, you will learn how to take student attendance using OneSchoolBus. 
 
                                                                                              Attendance Taking Page
 
-##### Step 2: Mark student attendance
 ----------
+
+##### Step 2: Mark student attendance
 
 *   Select `Mark all` to mark all the student attendance as present. By tapping on the white box next to a student name, you can individually mark a student as "Present" (`✔️`) or "Absent" (`❌` ).
 *   To call a student's parent/guardian, simply press on the phone number `📞` under the student name. It will take you to your phone app with the number.
@@ -35,8 +35,10 @@ On this page, you will learn how to take student attendance using OneSchoolBus. 
 
                                                                                          Student Attendance taken
 
-##### Step 3: End/Start Trip
 ----------
+
+##### Step 3: End/Start Trip
+
 *   After attendance is taken, press the **End Trip** or **Start Trip** button at the bottom of the screen to let the bus operator know that attendance is taken.
 
 ![](/images/Driver/How%20to%20take%20student%20attendance/driver%20tap%20to%20end%20trip%20v3.png)
