@@ -4,9 +4,8 @@ permalink: /school/
 description: ""
 ---
 # Navigating One School Bus
-
-##### What are the pages on the top navigation bar? 
 ----------
+##### What are the pages on the top navigation bar? 
 
 ![](/images/School/Navigating%20OneSchoolBus/school%20navigation.png)
 
