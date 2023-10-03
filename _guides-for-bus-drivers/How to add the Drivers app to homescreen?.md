@@ -16,22 +16,14 @@ On this page, you will learn how to add the drivers app to your smartphone homes
 *   Using the app `Google Chrome` , go to either:
     1.  [https://go.gov.sg/osb-driver](https://go.gov.sg/osb-driver) for English version of the app
     2.  [https://go.gov.sg/osb-driver-cn](https://go.gov.sg/osb-driver-cn) for Chinese version of the app
-*   Press the three dots `**⋮`\*\* on the top right of the browser
-*   Press `Add to Home screen`
-*   Press `Add` → `Add Automatically`
-*   App can be found in the homescreen as seen in the screenshot.
 
 ![](/images/Driver/Add%20the%20drivers%20app%20to%20home/driver%20landing%20page%20on%20android,%20click%203%20dots%20v2.jpeg)
-
-                                                                          Press three dots `**⋮**` on the top right
-
+*   Press the three dots `**⋮`\*\* on the top right of the browser
 ![](/images/Driver/Add%20the%20drivers%20app%20to%20home/driver%20android%203%20dots%20v2.jpeg)
-
-                                                                                                         `Install App`
-
+*   Press **Install App**
 ![](/images/Driver/Add%20the%20drivers%20app%20to%20home/driver%20install%20app%20v2.jpeg)
-
-                                                                                         Icon found on home screen
+*   Press **Install**
+*   App can be found in the homescreen as seen in the screenshot.
 
 ----------
 ##### Apple Instructions
