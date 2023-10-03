@@ -24,9 +24,8 @@ sections:
       subtitle: Managing your bus and student data in one place.
   - infobar:
       title: What is OneSchoolBus?
-      description: OneSchoolBus allows school users to view and manage data relating
-        to school bus operations, and an app for drivers to take student
-        attendance.
+      description: OSB allows bus operator to input and manage data relating to school
+        bus operations, school to view and drivers to take student attendance.
       button: Click here to read more
       url: /whatisosb
 ---

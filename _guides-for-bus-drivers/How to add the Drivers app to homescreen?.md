@@ -3,16 +3,15 @@ title: How to add the Drivers app to homescreen?
 permalink: /guides-for-bus-drivers/permalink/
 description: ""
 ---
-How to add the Drivers app to homescreen?
-=========================================
+# How to add the Drivers app to homescreen?
+----------
 
 On this page, you will learn how to add the drivers app to your smartphone homescreen. This allows you to access the app easily.
 
 **If you are a bus operator, please assist your drivers/attendants with these instructions**.
 
-* * *
-
-### Android Instructions
+----------
+##### Android Instructions
 
 *   Using the app `Google Chrome` , go to either:
     1.  [https://go.gov.sg/osb-driver](https://go.gov.sg/osb-driver) for English version of the app
@@ -34,9 +33,8 @@ On this page, you will learn how to add the drivers app to your smartphone homes
 
                                                                                          Icon found on home screen
 
-* * *
-
-### Apple Instructions
+----------
+##### Apple Instructions
 
 *   Using the app `Safari` , go to either:
     1.  [https://go.gov.sg/osb-driver](https://go.gov.sg/osb-driver) for English version of the app
