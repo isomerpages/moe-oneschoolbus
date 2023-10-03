@@ -7,10 +7,10 @@ description: ""
 
 The MOE HQ School Bus Exercise is an annual event, usually held by the end of February. During this time, you'll need to submit the bus route and student details, provided by the bus operators, to MOE HQ using OSB.
 
-* * *
+----------
 
 ##### 1\. How do I check my bus operators’ data entry progress for the MOE HQ School Bus exercise?
-----------
+
 
 *   Click on **Data Exercise** to view the data entry progress for each of the your bus operators. Click Show more to view the progress or what is incomplete.
 
@@ -20,10 +20,10 @@ The MOE HQ School Bus Exercise is an annual event, usually held by the end of Fe
 
 ![](/images/School/MOE%20HQ%20Data%20Exercise/school%20show%20more%20incomplete.png)
 
-
+----------
 
 ##### 2\. How do I verify students who cannot be found in School Cockpit?
-----------
+
 *   Sometimes, you may come across students whose identities need to be verified on the student page. This happens when the system cannot automatically match a student's name with a record in School Cockpit. This can occur for various reasons, such as having two students with the exact same name. 
 
 Example of student required for verification is shown below:
@@ -40,10 +40,10 @@ Example of student required for verification is shown below:
 
 	<aside> 💡 Should there be any data that needs changes, you may liase and message your bus operator directly before clicking next!
 
-</aside>
-
-##### 3\. How do I submit data to HQ and conclude the submission exercise?
 ----------
+	
+##### 3\. How do I submit data to HQ and conclude the submission exercise?
+
 *   Press **NEXT** once all your operators have submitted their data. Requirements needed to be met before you can press next:
     *   There must be at least **1 bus route and student(s)** included into the route.
     *   **Student, Routes and Company profile** fields are fully completed
@@ -58,8 +58,9 @@ Example of student required for verification is shown below:
 
 ![](/images/School/MOE%20HQ%20Data%20Exercise/school%20student%20all%20verified.png)
 
-##### 4\. How do I indicate student FAS status?
 ----------
+##### 4\. How do I indicate student FAS status?
+
 *   On the **FAS STATUS** column, indicate the students who are either on the MOE FAS scheme, School FAS or both schemes and taking the school bus.
 
 ![](/images/School/MOE%20HQ%20Data%20Exercise/school%20indicate%20student%20fas%20status.png)
@@ -70,10 +71,10 @@ Example of student required for verification is shown below:
 
 *   You should receive a confirmation message as shown below that your data has been submitted to MOE HQ as of last submitted date and time.
     
-
+----------
 ##### 5\. How do I resubmit data to HQ after there are changes to data by bus operators?
 
 *   Upon submission, you are also able to click **RESUBMIT** button to resubmit current data to MOE as an option if there are changes made to the data by the bus operators.
 *   Only the last submission will be recorded and a date / timestamp will be shown upon submission/resubmission.
 *   The requirements to enable a successful resubmit will include steps 1 to 4 above.
-*   _Please note that once the Data Exercise deadline has passed, you will **not be allowed** to **RESUBMIT**</aside>
+*   _Please note that once the Data Exercise deadline has passed, you will **not be allowed** to **RESUBMIT**</aside></aside>
