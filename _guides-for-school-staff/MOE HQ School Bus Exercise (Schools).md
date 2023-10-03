@@ -3,10 +3,9 @@ title: MOE HQ School Bus Exercise (Schools)
 permalink: /guides-for-school-staff/schoolosbexercise/
 description: ""
 ---
-How do I complete the MOE HQ School Bus Exercise (Schools)?
-===========================================================
+# How do I complete the MOE HQ School Bus Exercise (Schools)?
 
-The MOE HQ School Bus Exercise is conducted annually, typically by the end of February. You will be required to submit the bus route and student information that is provided by the bus operators to MOE HQ via OSB.
+The MOE HQ School Bus Exercise is an annual event, usually held by the end of February. During this time, you'll need to submit the bus route and student details, provided by the bus operators, to MOE HQ using OSB.
 
 * * *
 
@@ -21,9 +20,7 @@ The MOE HQ School Bus Exercise is conducted annually, typically by the end of Fe
 
 ![](/images/School/MOE%20HQ%20Data%20Exercise/school%20show%20more%20incomplete.png)
 
-<aside> 💡 On the students and routes page, you may see all incomplete fields that your bus operators have yet to fill in. You may refer to this guide: [How do I complete the MOE HQ School Bus Exercise? (Operators)](https://www.notion.so/How-do-I-complete-the-MOE-HQ-School-Bus-Exercise-Operators-a41470fbe74b430fa4d44b744a23956e?pvs=21) to find out about their submission requirements.
 
-</aside>
 
 ##### 2\. How do I verify students who cannot be found in School Cockpit?
 
