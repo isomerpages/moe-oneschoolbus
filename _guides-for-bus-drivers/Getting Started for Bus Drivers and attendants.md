@@ -16,21 +16,19 @@ A Chinese version of the application is available at [https://go.gov.sg/osb-driv
 
 Logging in
 ----------
+![](/images/Driver/Getting%20Started/driver%20login%20page.png)
+1.  Enter your phone number and press `Login` If it says `Invalid phone number`, check with your bus operator that your phone number has been inputted into the system.
 
-1.  Enter your phone number and press `Login`.
-    1.  If it says `Invalid phone number`, check with your bus operator that your phone number has been inputted into the system.
-2.  You should receive a SMS with your six-digit One-Time Pin (OTP) within the next few minutes. Enter the OTP and press `Next`.
-    1.  If there is no SMS after 3 minutes, press `Back` and try again. If it still doesn't work, please ask your bus operator to contact `schoolbus@estl.edu.sg`.
+![](/images/Driver/Getting%20Started/driver%20otp%20page.png)
+2.  You should receive a SMS with your six-digit One-Time Pin (OTP) within the next few minutes. Enter the OTP and press `Next`. If there is no SMS after 3 minutes, press `Back` and try again. If it still doesn't work, please ask your bus operator to contact `schoolbus@estl.edu.sg`.
 3.  You are in! The first page you see is the homepage with your routes for the day.
 
 What is in the homepage?
 ------------------------
-
+![](/images/Driver/Getting%20Started/driver%20landing%20page.png)
 1.  You will see your routes listed and their starting times. Morning routes are in **orange** while afternoon routes will be in **blue**. These routes are assigned to you by your operator.
     1.  The bus number, start time and days of the route are listed.
 2.  If you do not see any routes listed on this page, contact your bus operator to check that they have assigned you routes.
-
-![staging-schbus.k8s.nonprod.aws.estl.sg_driver_home(iPhone X).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/97b9f863-696c-4f5d-8b23-913689e915d2/staging-schbus.k8s.nonprod.aws.estl.sg_driver_home(iPhone_X).png)
 
 What next?
 ----------
