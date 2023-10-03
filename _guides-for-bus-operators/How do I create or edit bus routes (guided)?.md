@@ -35,20 +35,20 @@ Here you will learn how to
 3.  You will now see your created bus route, as below.
     
 ![](/images/Operator/osb%20ops%2005%20bus%20route.png)
-    
 
-How do I edit bus route information?
-------------------------------------
+----------------------------
+##### How do I edit bus route information?
+
 
 1.  Click on `Edit` button to the right of the route information.
     
 ![](/images/Operator/osb%20ops%2006%20bus%20route%20edit.png)
     
 2.  A form will appear with the route information pre-filled. Edit the fields you wish to change, and press the `Save` button on the form.
-    
 
-How do I add stops and students to the bus route?
--------------------------------------------------
+----------------------------
+##### How do I add stops and students to the bus route?
+
 
 1.  Click on the `+` button below the table header. An empty row will appear.
 
@@ -70,25 +70,24 @@ How do I add stops and students to the bus route?
     
     **Days taking Bus:** default is that students will be taking bus everyday. Tap M, T, W, T, F to turn off student if not taking bus on that day.
     
-&gt; 💡 **You will only be able to save when you have filled in all required cells and there are no red boxes around any of the cells.**
+💡 **You will only be able to save when you have filled in all required cells and there are no red boxes around any of the cells.**
     
-&gt; 💡 A **red box** around a cell means that there is an error. Hover over the red box for the error message and resolve the error accordingly.
-&gt;     
-&gt;     An **orange** box around a cell means that there are additional actions necessary for the MOE HQ data submission exercise. Hover over the orange box for more information.
+💡 A **red box** around a cell means that there is an error. Hover over the red box for the error message and resolve the error accordingly.
+   
+An **orange** box around a cell means that there are additional actions necessary for the MOE HQ data submission exercise. Hover over the orange box for more information.
     
 2.  Press on the `Save Changes` button above the table. Your changes are now saved.
     
 ![](/images/Operator/osb%20ops%2008%20bus%20route%20add%20student.png)
     
-    <aside> 💡 You are able to edit student or stop information at any time. However, to change a student’s name, please go to the page below:
+   💡 You are able to edit student or stop information at any time. However, to change a student’s name, please go to the page below:
     
     [How do I add, edit, or delete students?](https://www.notion.so/How-do-I-add-edit-or-delete-students-c0d63427ae85423b90f09004dbdf4af1?pvs=21)
     
-    </aside>
     
 
-How do I add a student to an existing stop?
--------------------------------------------
+----------------------------
+##### How do I add a student to an existing stop?
 
 1.  Hover over the first cell (`Stop #`) of the row. A checkbox and a menu button will pop up. Select the menu button.
     
@@ -97,10 +96,10 @@ How do I add a student to an existing stop?
 2.  Select `Insert student to stop`. A new row will appear below the current row.
     
 3.  Fill in the student’s name and contact, and press `Save Changes`.
-    
 
-How do I add a new stop before or after an existing stop?
----------------------------------------------------------
+----------------------------
+##### How do I add a new stop before or after an existing stop?
+
 
 1.  Hover over the first cell (`Stop #`) of the row. A checkbox and a menu button will pop up. Select the menu button.
     
@@ -109,10 +108,10 @@ How do I add a new stop before or after an existing stop?
 2.  Select `Insert stop above` in the menu if you want to add a new stop before the current stop, or `Insert stop below` if you want to add a new stop after the current stop. A new row will appear before or after the current stop.
     
 3.  Fill in the row details, and press `Save Changes`.
-    
 
-How do I separate a student from a merged stop?
------------------------------------------------
+----------------------------
+##### How do I separate a student from a merged stop?
+
 
 If you have multiple students being picked up or dropped off at the same stop, but one of the students is changing their stop, you can move the student out of that stop. Follow the steps below.
 
@@ -123,10 +122,9 @@ If you have multiple students being picked up or dropped off at the same stop, b
 2.  Select `Split student out of stop`. The student will now be moved to a new row.
     
 3.  Fill in the stop details, then press `Save Changes`.
-    
 
-How do I delete students/rows from the bus route?
--------------------------------------------------
+----------------------------
+##### How do I delete students/rows from the bus route?
 
 1.  Hover over the first cell (`Stop #`) of the row. A checkbox and a menu button will pop up. Select the checkbox.
     
@@ -137,43 +135,21 @@ How do I delete students/rows from the bus route?
 3.  A confirm dialog will appear. Click on `Remove Rows` to confirm.
     
 4.  The row will be removed. Press `Save Changes` to save your changes.
-    
 
-How do I change the order of the stops?
----------------------------------------
+----------------------------
+##### How do I change the order of the stops?
 
 1.  Click on the arrows to the left of the row. The up arrow will move the stop up while the down arrow will move the stop down.
     
 ![](/images/Operator/osb%20ops%2012%20bus%20route%20reorder.png)
     
     Use the arrows to move the stop up or down
-    
 
-How do I delete a route?
-------------------------
+----------------------------
+##### How do I delete a route?
 
 1.  Click on the `Delete Route` button to the right of the route information.
     
 ![](/images/Operator/osb%20ops%2014%20bus%20route%20delete%20route.png)
     
 2.  A confirm dialog will appear. Click on `Delete` to confirm. The route will then be deleted.
-    
-
-I serve multiple schools. Why do I only see one school?
--------------------------------------------------------
-
-Please ask the Admin Manager of the missing schools to add your company to OneSchoolBus, in order to see all your schools.
-
-What can I do on the bus routes page?
--------------------------------------
-
-[How do I see my bus routes?](https://www.notion.so/How-do-I-see-my-bus-routes-b75461e084b34d59a53672ab553466ba?pvs=21)
-
-[How do I delete a bus route?](https://www.notion.so/How-do-I-delete-a-bus-route-e477ecfd6b3742b1bf074931d1f73bd4?pvs=21)
-
-[How do I export bus routes into an Excel file?](https://www.notion.so/How-do-I-export-bus-routes-into-an-Excel-file-8df77b42ab7d406f96797fbc8ebadc8b?pvs=21)
-
-What's next after bus routes?
------------------------------
-
-[How do I see my students?](https://www.notion.so/How-do-I-see-my-students-3a49e100b86b41c69445f8a5ded26db6?pvs=21)
