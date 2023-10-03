@@ -70,26 +70,24 @@ Here you will learn how to
     
     **Days taking Bus:** default is that students will be taking bus everyday. Tap M, T, W, T, F to turn off student if not taking bus on that day.
     
-💡 **You will only be able to save when you have filled in all required cells and there are no red boxes around any of the cells.**
+💡 You will only be able to save when you have filled in all required cells and there are no red boxes around any of the cells.
     
 💡 A **red box** around a cell means that there is an error. Hover over the red box for the error message and resolve the error accordingly.
    
-An **orange** box around a cell means that there are additional actions necessary for the MOE HQ data submission exercise. Hover over the orange box for more information.
+💡 An **orange** box around a cell means that there are additional actions necessary for the MOE HQ data submission exercise. Hover over the orange box for more information.
     
 2.  Press on the `Save Changes` button above the table. Your changes are now saved.
     
 ![](/images/Operator/osb%20ops%2008%20bus%20route%20add%20student.png)
     
-   💡 You are able to edit student or stop information at any time. However, to change a student’s name, please go to the page below:
-    
-    [How do I add, edit, or delete students?](https://www.notion.so/How-do-I-add-edit-or-delete-students-c0d63427ae85423b90f09004dbdf4af1?pvs=21)
+   💡 You are able to edit student or stop information at any time. However, to change a student’s name, you will need to edit it from the students page at the top of navigation bar.
     
     
 
 ----------------------------
 ##### How do I add a student to an existing stop?
 
-1.  Hover over the first cell (`Stop #`) of the row. A checkbox and a menu button will pop up. Select the menu button.
+1.  Hover over the first cell Stop # of the row. A checkbox and a menu button will pop up. Select the menu button.
     
 ![](/images/Operator/osb%20ops%2009%20bus%20route%20add%20to%20existing%20stop.png)
     
