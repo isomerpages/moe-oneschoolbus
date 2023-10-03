@@ -13,7 +13,7 @@ On this page, you will learn how to add the drivers app to your smartphone homes
 * * *
 
 ##### Android Instructions
-
+----------
 *   Using the app `Google Chrome` , go to either:
     1.  [https://go.gov.sg/osb-driver](https://go.gov.sg/osb-driver) for English version of the app
     2.  [https://go.gov.sg/osb-driver-cn](https://go.gov.sg/osb-driver-cn) for Chinese version of the app
@@ -37,7 +37,7 @@ On this page, you will learn how to add the drivers app to your smartphone homes
 * * *
 
 ##### Apple Instructions
-
+----------
 *   Using the app `Safari` , go to either:
     1.  [https://go.gov.sg/osb-driver](https://go.gov.sg/osb-driver) for English version of the app
     2.  [https://go.gov.sg/osb-driver-cn](https://go.gov.sg/osb-driver-cn) for Chinese version of the app
