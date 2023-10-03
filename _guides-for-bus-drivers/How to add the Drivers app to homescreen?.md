@@ -22,7 +22,7 @@ On this page, you will learn how to add the drivers app to your smartphone homes
 *   Press `Add` → `Add Automatically`
 *   App can be found in the homescreen as seen in the screenshot.
 
-![Press three dots  on the top right](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/99d0de5f-f7c5-49f4-8cd2-b09ebd6bc0e7/photo_2021-09-21_16.38.30.jpeg)
+
 
 Press three dots `**⋮**` on the top right
 
