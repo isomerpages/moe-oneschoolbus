@@ -10,7 +10,6 @@ On this page, you will learn how to add the drivers app to your smartphone homes
 
 **If you are a bus operator, please assist your drivers/attendants with these instructions**.
 
-* * *
 
 ##### Android Instructions
 ----------
