@@ -16,7 +16,7 @@ A Chinese version of the application is available at [https://go.gov.sg/osb-driv
 
 ### Logging in
 ----------
-![](/images/Driver/Getting%20Started/driver%20login%20page.png)
+![](/images/Driver/Getting%20Started/screenshot%202023-10-03%20112047.png)
 1.  Enter your phone number and press **Login** If it says **Invalid phone number**, check with your bus operator that your phone number has been inputted into the system.
 
 ![](/images/Driver/Getting%20Started/driver%20otp%20page.png)
