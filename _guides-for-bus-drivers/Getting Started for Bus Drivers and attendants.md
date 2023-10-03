@@ -6,11 +6,11 @@ description: ""
 Getting Started
 ===============
 
-Welcome to our companion application for OneSchoolBus! Head on to [https://go.gov.sg/osb-driver](https://go.gov.sg/osb-driver) on your smartphone to begin using the attendance application.
+Welcome to the OneSchoolBus Driver App! Head on to [https://go.gov.sg/osb-driver](https://go.gov.sg/osb-driver) on your smartphone to begin using the attendance application.
 
 A Chinese version of the application is available at [https://go.gov.sg/osb-driver-cn](https://go.gov.sg/osb-driver-cn).
 
-**If you are a bus operator, please assist your drivers/attendants with these instructions**.
+**Note to Bus Operators: Please assist your drivers and attendants by providing them with these instructions to ensure a smooth onboarding process.**.
 
 * * *
 
