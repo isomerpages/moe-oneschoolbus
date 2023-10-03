@@ -87,25 +87,25 @@ Here you will learn how to
 ----------------------------
 ##### How do I add a student to an existing stop?
 
-1.  Hover over the first cell Stop # of the row. A checkbox and a menu button will pop up. Select the menu button.
+1.  Hover over the first cell **Stop #** of the row. A checkbox and a menu button will pop up. Select the menu button.
     
 ![](/images/Operator/osb%20ops%2009%20bus%20route%20add%20to%20existing%20stop.png)
     
 2.  Select **Insert student to stop**. A new row will appear below the current row.
     
-3.  Fill in the student’s name and contact, and press `Save Changes`.
+3.  Fill in the student’s name and contact, and press **Save Changes.**
 
 ----------------------------
 ##### How do I add a new stop before or after an existing stop?
 
 
-1.  Hover over the first cell (`Stop #`) of the row. A checkbox and a menu button will pop up. Select the menu button.
+1.  Hover over the first cell **Stop #** of the row. A checkbox and a menu button will pop up. Select the menu button.
     
 ![](/images/Operator/osb%20ops%2010%20bus%20route%20add%20stop.png)
     
-2.  Select `Insert stop above` in the menu if you want to add a new stop before the current stop, or `Insert stop below` if you want to add a new stop after the current stop. A new row will appear before or after the current stop.
+2.  Select **Insert stop above** in the menu if you want to add a new stop before the current stop, or `Insert stop below` if you want to add a new stop after the current stop. A new row will appear before or after the current stop.
     
-3.  Fill in the row details, and press `Save Changes`.
+3.  Fill in the row details, and press **Save Changes.**
 
 ----------------------------
 ##### How do I separate a student from a merged stop?
@@ -113,26 +113,26 @@ Here you will learn how to
 
 If you have multiple students being picked up or dropped off at the same stop, but one of the students is changing their stop, you can move the student out of that stop. Follow the steps below.
 
-1.  Hover over the first cell (`Stop #`) of the row. A checkbox and a menu button will pop up. Select the menu button.
+1.  Hover over the first cell **Stop #** of the row. A checkbox and a menu button will pop up. Select the menu button.
     
 ![](/images/Operator/osb%20ops%2011%20bus%20route%20split%20row.png)
     
-2.  Select `Split student out of stop`. The student will now be moved to a new row.
+2.  Select **Split student out of stop**. The student will now be moved to a new row.
     
-3.  Fill in the stop details, then press `Save Changes`.
+3.  Fill in the stop details, then press **Save Changes.**
 
 ----------------------------
 ##### How do I delete students/rows from the bus route?
 
-1.  Hover over the first cell (`Stop #`) of the row. A checkbox and a menu button will pop up. Select the checkbox.
+1.  Hover over the first cell **Stop #** of the row. A checkbox and a menu button will pop up. Select the checkbox.
     
-2.  A bar will appear at the bottom of the page. Click the `Remove rows` button.
+2.  A bar will appear at the bottom of the page. Click the **Remove rows** button.
     
 ![](/images/Operator/osb%20ops%2013%20bus%20route%20delete%20student.png)
     
-3.  A confirm dialog will appear. Click on `Remove Rows` to confirm.
+3.  A confirm dialog will appear. Click on **Remove rows** to confirm.
     
-4.  The row will be removed. Press `Save Changes` to save your changes.
+4.  The row will be removed. Press **Save Changes.** to save your changes.
 
 ----------------------------
 ##### How do I change the order of the stops?
@@ -141,7 +141,7 @@ If you have multiple students being picked up or dropped off at the same stop, b
     
 ![](/images/Operator/osb%20ops%2012%20bus%20route%20reorder.png)
     
-    Use the arrows to move the stop up or down
+																		Use the arrows to move the stop up or down
 
 ----------------------------
 ##### How do I delete a route?
