@@ -129,11 +129,9 @@ How do I delete students/rows from the bus route?
 
 1.  Hover over the first cell (`Stop #`) of the row. A checkbox and a menu button will pop up. Select the checkbox.
     
-    ![Screenshot 2022-08-30 at 9.08.36 AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6887c846-a416-4f90-bc9c-c98dbb522e5d/Screenshot_2022-08-30_at_9.08.36_AM.png)
-    
 2.  A bar will appear at the bottom of the page. Click the `Remove rows` button.
     
-    ![Screenshot 2022-08-30 at 9.09.28 AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4b077ae2-5b22-4082-a26e-ea7c9d332564/Screenshot_2022-08-30_at_9.09.28_AM.png)
+![](/images/Operator/osb%20ops%2013%20bus%20route%20delete%20student.png)
     
 3.  A confirm dialog will appear. Click on `Remove Rows` to confirm.
     
@@ -145,7 +143,7 @@ How do I change the order of the stops?
 
 1.  Click on the arrows to the left of the row. The up arrow will move the stop up while the down arrow will move the stop down.
     
-    ![Use the arrows to move the stop up or down ](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd4e30e1-f28c-44ac-8aae-b06685829625/Screenshot_2022-08-30_at_9.23.07_AM.png)
+![](/images/Operator/osb%20ops%2012%20bus%20route%20reorder.png)
     
     Use the arrows to move the stop up or down
     
@@ -155,7 +153,7 @@ How do I delete a route?
 
 1.  Click on the `Delete Route` button to the right of the route information.
     
-    ![Screenshot 2022-08-30 at 10.01.50 AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/76bccb83-f5f5-453a-b932-ee9475887e06/Screenshot_2022-08-30_at_10.01.50_AM.png)
+![](/images/Operator/osb%20ops%2014%20bus%20route%20delete%20route.png)
     
 2.  A confirm dialog will appear. Click on `Delete` to confirm. The route will then be deleted.
     
