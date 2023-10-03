@@ -4,6 +4,7 @@ permalink: /guides-for-bus-drivers/busdrivergettingstarted/
 description: ""
 ---
 # Getting Started
+----------
 
 Welcome to the OneSchoolBus Driver App! Head on to [https://go.gov.sg/osb-driver](https://go.gov.sg/osb-driver) on your smartphone to begin using the attendance application.
 
