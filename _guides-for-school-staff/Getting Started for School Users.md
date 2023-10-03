@@ -33,11 +33,3 @@ Head on to [https://go.gov.sg/osb-school](https://go.gov.sg/osb-school) on your 
     4.  School Operations Manager
 
 _************************If you do not have access, please refer to point 4.************************_
-
-What next?
-----------
-
-*   You may learn how to navigate the OSB portal here: 
-*   If there is no data in the system yet, please add your bus operator to OSB here: 
-*   Do inform your bus operator(s) to upload their data to OSB. A guide for them can be found on 
-*   If you need to take part in the annual MOE HQ School Bus Exercise, you may follow the instructions here:
