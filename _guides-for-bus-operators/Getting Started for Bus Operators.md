@@ -13,14 +13,14 @@ Head on to [**OneSchoolBus Ops Portal**](https://go.gov.sg/osb) to start your ex
 1\. Logging in
 --------------
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b5346ff7-9b6f-446d-8662-603d3deec659/Untitled.png)
+![](/images/Operator/osb%20ops%2001%20log%20in.png)
 
 1.  Enter your phone number and press `Login`.
     
     1.  If you are using a foreign mobile number, add the country code in front, eg `+60`.
     2.  If it says `Invalid phone number`, email [schoolbus@estl.edu.sg](mailto:schoolbus@estl.edu.sg) to check that the phone number you entered has been registered in our system.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cb3f6e83-b108-42cc-b751-931609c54541/Untitled.png)
+![](/images/Operator/osb%20ops%2002%20otp.png)
     
 2.  You should receive a SMS with your six-digit One-Time Pin (OTP) within the next few minutes. Enter the OTP and press `Next`.
     
@@ -33,7 +33,7 @@ Head on to [**OneSchoolBus Ops Portal**](https://go.gov.sg/osb) to start your ex
 
 There are 2 ways you can input data into OSB, either manually enter the data into the system or if you have your own system, do an excel bulk update.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e437e2dc-b213-44c5-81dd-a0091a0709a5/Untitled.png)
+![](/images/Operator/osb%20ops%2003%20routes-home-flowchart.png)
 
 ### How to Create Route Manually (1)
 

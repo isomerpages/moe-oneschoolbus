@@ -22,25 +22,17 @@ On this page, you will learn how to add the drivers app to your smartphone homes
 *   Press `Add` → `Add Automatically`
 *   App can be found in the homescreen as seen in the screenshot.
 
-![Press three dots  on the top right](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/99d0de5f-f7c5-49f4-8cd2-b09ebd6bc0e7/photo_2021-09-21_16.38.30.jpeg)
+![](/images/Driver/Add%20the%20drivers%20app%20to%20home/driver%20landing%20page%20on%20android,%20click%203%20dots%20v2.jpeg)
 
-Press three dots `**⋮**` on the top right
+                                                                          Press three dots `**⋮**` on the top right
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/be5dfb72-9a95-40cd-8fab-855f0bc71f47/photo_2021-09-21_16.38.27.jpeg)
+![](/images/Driver/Add%20the%20drivers%20app%20to%20home/driver%20android%203%20dots%20v2.jpeg)
 
-`Add to Home screen`
+                                                                                                         `Install App`
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/754824c4-92c2-428f-817f-1757b366d07f/photo_2021-09-21_16.38.24.jpeg)
+![](/images/Driver/Add%20the%20drivers%20app%20to%20home/driver%20install%20app%20v2.jpeg)
 
-`Add`
-
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e00436b3-6a2b-419c-b9ea-58dc9c2b50ec/photo_2021-09-21_17.00.13.jpeg)
-
-`Add automatically`
-
-![Icon found on home screen](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9801c169-2605-49b9-8da7-0a81f6a312fb/photo_2021-09-21_17.00.16.jpeg)
-
-Icon found on home screen
+                                                                                         Icon found on home screen
 
 * * *
 

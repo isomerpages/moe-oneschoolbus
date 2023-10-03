@@ -13,42 +13,23 @@ The MOE HQ School Bus Exercise is conducted annually, typically by the end of Fe
 ##### 1\. How do I check my bus operators’ data entry progress for the MOE HQ School Bus exercise?
 
 
-*   Click on `**Data Exercise**` to check the data entry progress for each of the your bus operators.
+*   Click on **Data Exercise** to view the data entry progress for each of the your bus operators. Click Show more to view the progress or what is incomplete.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a22d30c3-aca6-4e0f-adf8-fb58fb3ea43e/Untitled.png)
+![](/images/School/MOE%20HQ%20Data%20Exercise/school-click%20on%20data%20exercise.png)
 
 *   You can click on the **`Students`** or the **`Routes`** to check on the missing information that your operators have yet to enter. If your operators have questions about completing the missing information, you may redirect them to this guide: [How do I complete the MOE HQ School Bus Exercise? (Operators)](https://www.notion.so/How-do-I-complete-the-MOE-HQ-School-Bus-Exercise-Operators-a41470fbe74b430fa4d44b744a23956e?pvs=21)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bc881b32-98b8-4b6e-9a72-b7242a06663d/Untitled.png)
+![](/images/School/MOE%20HQ%20Data%20Exercise/school%20show%20more%20incomplete.png)
 
-<aside> 💡 Please strongly urge your bus operators to submit the data **ahead of the deadline!**
-
-</aside>
-
-*   Press `**NEXT**` once all your operators have submitted their data. Requirements needed to be met before you can press next:
-    *   There must be at least 1 bus route and student(s) included into the route.
-    *   Company profile is completed
-    *   Progress bar is 100%
-    *   Operator must click NOTIFY SCHOOL button on their page to indicate done.
-    *   All bus operators (for schools with multiple operators) have also clicked NOTIFY SCHOOL button.
-
-<aside> 💡 You may refer to this guide: [How do I complete the MOE HQ School Bus Exercise? (Operators)](https://www.notion.so/How-do-I-complete-the-MOE-HQ-School-Bus-Exercise-Operators-a41470fbe74b430fa4d44b744a23956e?pvs=21) to find out about their submission requirements.
+<aside> 💡 On the students and routes page, you may see all incomplete fields that your bus operators have yet to fill in. You may refer to this guide: [How do I complete the MOE HQ School Bus Exercise? (Operators)](https://www.notion.so/How-do-I-complete-the-MOE-HQ-School-Bus-Exercise-Operators-a41470fbe74b430fa4d44b744a23956e?pvs=21) to find out about their submission requirements.
 
 </aside>
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87ac8203-817a-4eab-a5d6-bc695d797848/Untitled.png)
+##### 2\. How do I verify students who cannot be found in School Cockpit?
 
-<aside> 💡 **Should there be any data that needs changes, you may liase and message your bus operator directly before clicking next!**
+On the student page, you may find 
 
-</aside>
-
-*   After clicking next, you will be brought to the page below
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87166d16-da16-4d5f-8283-2c0b3a546f04/Untitled.png)
-
-##### 2\. \[Task 1\] How do I verify students who cannot be found in School Cockpit?
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/631187ce-4522-48f0-a3c8-526e90e6d41f/Untitled.png)
+![](/images/School/MOE%20HQ%20Data%20Exercise/school%20student%20not%20verified.png)
 
 *   After you click submit to MOE, you will be brought to the next page for `**Data Exercise**`,
     *   if present, click on the first link to match your students who cannot be found in the HQ database.
@@ -63,6 +44,19 @@ The MOE HQ School Bus Exercise is conducted annually, typically by the end of Fe
 
 *   Please repeat the above process for all your unmatched students.
 
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87ac8203-817a-4eab-a5d6-bc695d797848/Untitled.png)
+
+<aside> 💡 **Should there be any data that needs changes, you may liase and message your bus operator directly before clicking next!**
+
+</aside>
+
+*   After clicking next, you will be brought to the page below
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87166d16-da16-4d5f-8283-2c0b3a546f04/Untitled.png)
+
+
+
 ##### 3\. \[Task 2\] How do I indicate student FAS status?
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/30cdafd5-942f-42c2-acf6-684871644159/Untitled.png)
@@ -74,6 +68,18 @@ The MOE HQ School Bus Exercise is conducted annually, typically by the end of Fe
 *   On the `**MOE FAS**` column, indicate the students who are on the FAS scheme and taking the school bus.
 
 ##### 4\. How do I submit data to HQ and conclude the submission exercise?
+
+<aside> 💡 Please strongly urge your bus operators to submit the data **ahead of the deadline!**
+
+</aside>
+
+*   Press **NEXT** once all your operators have submitted their data. Requirements needed to be met before you can press next:
+    *   There must be at least **1 bus route and student(s)** included into the route.
+    *   **Student, Routes and Company profile** fields are fully completed
+    *   Operator must click **NOTIFY SCHOOL** button on their page to indicate done.
+    *   All bus operators (for schools with multiple operators) have also clicked **NOTIFY SCHOOL** button.
+
+<aside> 💡 You may refer to this guide: [How do I complete the MOE HQ School Bus Exercise? (Operators)](https://www.notion.so/How-do-I-complete-the-MOE-HQ-School-Bus-Exercise-Operators-a41470fbe74b430fa4d44b744a23956e?pvs=21) to find out about their submission requirements.
 
 *   Once you have matched the students and updated all the MOE FAS statuses of the students, you will be directed to the following page. Do a final verification of all the FAS students identified, **scroll to the bottom of the page**.
 
@@ -93,4 +99,4 @@ The MOE HQ School Bus Exercise is conducted annually, typically by the end of Fe
 *   Upon submission, you are also able to click `**RESUBMIT**` button to resubmit current data to MOE as an option if there are changes made to the data by the bus operators.
 *   Only the last submission will be recorded and a date / timestamp will be shown upon submission/resubmission.
 *   The requirements to enable a successful resubmit will include steps 1 to 4 above.
-*   _Please note that once the Data Exercise deadline has passed, you will **not be allowed** to `**RESUBMIT`._\*\*
+*   _Please note that once the Data Exercise deadline has passed, you will **not be allowed** to `**RESUBMIT`._\*\*</aside>
