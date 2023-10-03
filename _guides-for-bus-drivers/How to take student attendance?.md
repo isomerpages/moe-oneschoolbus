@@ -18,7 +18,7 @@ On this page, you will learn how to take student attendance using OneSchoolBus. 
 *   Using the `🔍` icon, you can search for student names on the bus route
 *   To go back to the homepage, use the `←` Back arrow
 
-![Attendance Taking Page](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed3acee3-bc0f-4635-bfbe-61c16c98962f/rudolph.localhost_driver_home(Pixel_2_XL)_(3).png)
+![](/images/Driver/How%20to%20take%20student%20attendance/driver%20driver%20att%20landing%20page%20v2.png)
 
 Attendance Taking Page
 
