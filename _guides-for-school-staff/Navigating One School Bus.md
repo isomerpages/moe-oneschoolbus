@@ -6,6 +6,7 @@ description: ""
 # Navigating One School Bus
 
 ##### What are the pages on the top navigation bar? 
+----------
 
 ![](/images/School/Navigating%20OneSchoolBus/school%20navigation.png)
 
@@ -23,4 +24,3 @@ description: ""
     
 7.  Data Exercise: This is the submission tab for the annual Q1 MOE HQ School Bus Exercise which requires you to input FAS information and verify that your operators data is factually correct.
 8.  Sign out: To log out from OSB portal.
-    
