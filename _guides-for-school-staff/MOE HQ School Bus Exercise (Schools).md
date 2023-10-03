@@ -4,7 +4,7 @@ permalink: /guides-for-school-staff/schoolosbexercise/
 description: ""
 ---
 # How do I complete the MOE HQ School Bus Exercise (Schools)?
-
+----------
 The MOE HQ School Bus Exercise is an annual event, usually held by the end of February. During this time, you'll need to submit the bus route and student details, provided by the bus operators, to MOE HQ using OSB.
 
 ----------
