@@ -9,10 +9,8 @@ Welcome to our school application for OneSchoolBus! Here you will find guides on
 
 Head on to [https://go.gov.sg/osb-school](https://go.gov.sg/osb-school) on your desktop to begin using the application.
 
-* * *
-
+----------
 ##### Logging in using MIMS
----------------------
 
 1.  After going to [https://go.gov.sg/osb-school](https://go.gov.sg/osb-school), you will be redirected to the MIMS login portal after pressing the **Login** button.
 ![](/images/mimsloginpage.png)
