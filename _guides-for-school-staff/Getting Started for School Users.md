@@ -23,7 +23,7 @@ Head on to [https://go.gov.sg/osb-school](https://go.gov.sg/osb-school) on your 
 3.  Upon successful login, you will be redirected to the OSB students page for your school which will look like the screenshot above.
 ![](/images/osbschoolloginissue.png)
     
-4.  If you receive an error like `You do not have permissions to access to the school bus appliction` as shown above, you will need to request for access from the MIMS dashboard. You may refer to this page for more information: 
+4.  If you receive an error like **You do not have permissions to access to the school bus application** as shown above, you will need to request for access from the MIMS dashboard. You may refer to this page for more information: 
     
 5.  The following Personnel should have default access to OSB (by MIMS from Nov ‘22).
     
