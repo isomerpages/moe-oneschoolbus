@@ -13,23 +13,25 @@ On this page, you will learn how to request for access to OneSchoolBus. Once the
 
 1.  If you do not have access and you will like to access OSB, please go to [](https://mims.moe.gov.sg/)[https://mims.moe.gov.sg](https://mims.moe.gov.sg) to log in to the MIMS portal.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c12e4b84-97d9-4ff4-947b-27afa9705f52/Untitled.png)
+![](/images/School/How%20do%20I%20request%20access%20to%20OSB/screenshot%202023-10-03%20095822.png)
     
-2.  After entering your MIMS login credentials, you will be brought to the dash board for MIMS.
+2.  After entering your MIMS login credentials, you will be brought to the dash board for MIMS. Select MIMS Identity Portal
+
+![](/images/School/How%20do%20I%20request%20access%20to%20OSB/screenshot%202023-10-03%20100220.png)
     
 3.  Tap on `Access` and click on `Request`.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/62224364-1536-45d7-b43a-ebed129c5449/Untitled.png)
+![](/images/School/How%20do%20I%20request%20access%20to%20OSB/untitled%20(5).png)
     
 4.  Scroll to the bottom of the next page to locate the OSB app
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/220940e9-a1bf-4461-9fe8-9bd3f84a3808/Untitled.png)
+![](/images/School/How%20do%20I%20request%20access%20to%20OSB/untitled%20(3).png)
     
 5.  Clicking on icon for OneSchoolBus Account and a pop up will appear below
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ff9c60a-8686-4341-8fdf-afee92eca0d6/Untitled.png)
+![](/images/School/How%20do%20I%20request%20access%20to%20OSB/untitled%20(4).png)
     
-6.  Fill in the `reason for making the request` and tap on `Request`.
+6.  Fill in the **reason for making the request** and tap on **Request**.
     
     *   This request will be submitted to school leaders for approval.
     *   After requesting for approval, do alert the school leaders and please wait a couple days for the request to be granted access.
