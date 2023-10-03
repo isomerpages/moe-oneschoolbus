@@ -3,11 +3,12 @@ title: How do I create or edit bus routes?
 permalink: /guides-for-bus-operators/busoperatorcreatebusroutes/
 description: ""
 ---
-How do I create or edit bus routes?
-===================================
+# How do I create or edit bus routes (guided)?
+----------
+Here you will learn how to 
 
-How do I create a bus route?
 ----------------------------
+##### How do I create a bus route?
 
 1.  Click on the `Create Route` button on the left sidebar.
     
