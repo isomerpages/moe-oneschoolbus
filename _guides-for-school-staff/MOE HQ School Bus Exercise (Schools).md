@@ -45,42 +45,33 @@ Example of student required for verification is shown below:
 
 </aside>
 
-
-##### 3\. How do I indicate student FAS status?
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/30cdafd5-942f-42c2-acf6-684871644159/Untitled.png)
-
-*   Returning to the `**Data Exercise**` page, press on the second link to indicate which students are on the FAS scheme.
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f0e77be3-9048-44c5-b064-e09f8e50c67c/Untitled.png)
-
-*   On the `**MOE FAS**` column, indicate the students who are on the FAS scheme and taking the school bus.
-
-##### 4\. How do I submit data to HQ and conclude the submission exercise?
-
-<aside> 💡 Please strongly urge your bus operators to submit the data **ahead of the deadline!**
-
-</aside>
+##### 3\. How do I submit data to HQ and conclude the submission exercise?
 
 *   Press **NEXT** once all your operators have submitted their data. Requirements needed to be met before you can press next:
     *   There must be at least **1 bus route and student(s)** included into the route.
     *   **Student, Routes and Company profile** fields are fully completed
     *   Operator must click **NOTIFY SCHOOL** button on their page to indicate done.
     *   All bus operators (for schools with multiple operators) have also clicked **NOTIFY SCHOOL** button.
+	
+![](/images/School/MOE%20HQ%20Data%20Exercise/school%20data%20exercise%20progress%20100%20percent.png)
+	
+		💡 Please strongly urge your bus operators to submit the data **ahead of the deadline!**
 
-<aside> 💡 You may refer to this guide: [How do I complete the MOE HQ School Bus Exercise? (Operators)](https://www.notion.so/How-do-I-complete-the-MOE-HQ-School-Bus-Exercise-Operators-a41470fbe74b430fa4d44b744a23956e?pvs=21) to find out about their submission requirements.
+*   You'll arrive at a page where you can either fill in or confirm the required FAS statuses of the students if you've already entered them on the previous page.
 
-*   Once you have matched the students and updated all the MOE FAS statuses of the students, you will be directed to the following page. Do a final verification of all the FAS students identified, **scroll to the bottom of the page**.
+![](/images/School/MOE%20HQ%20Data%20Exercise/school%20student%20all%20verified.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9015b430-51d2-4406-96c0-f824f8eb7a74/Untitled.png)
+##### 4\. How do I indicate student FAS status?
 
-*   Press on the **`Submit to MOE`** button and Submit button in the subsequent pop up to complete the submission.
+*   On the **FAS STATUS** column, indicate the students who are either on the MOE FAS scheme, School FAS or both schemes and taking the school bus.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/59efe01e-460c-4d1a-a737-e8c2ce63aae8/Untitled.png)
+![](/images/School/MOE%20HQ%20Data%20Exercise/school%20indicate%20student%20fas%20status.png)
+
+*   Once you have updated all the FAS statuses of the students, you can click on the Submit button and another Submit button in the subsequent pop up to complete the submission.
+	
+![](/images/School/MOE%20HQ%20Data%20Exercise/school%20click%20submit%20data%20exercise.png)
 
 *   You should receive a confirmation message as shown below that your data has been submitted to MOE HQ as of last submitted date and time.
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c11ffecf-e06a-440c-80ae-b23e1ee8c59d/Untitled.png)
     
 
 ##### 5\. How do I resubmit data to HQ after there are changes to data by bus operators?
@@ -88,4 +79,4 @@ Example of student required for verification is shown below:
 *   Upon submission, you are also able to click `**RESUBMIT**` button to resubmit current data to MOE as an option if there are changes made to the data by the bus operators.
 *   Only the last submission will be recorded and a date / timestamp will be shown upon submission/resubmission.
 *   The requirements to enable a successful resubmit will include steps 1 to 4 above.
-*   _Please note that once the Data Exercise deadline has passed, you will **not be allowed** to `**RESUBMIT`._\*\*</aside></aside>
+*   _Please note that once the Data Exercise deadline has passed, you will **not be allowed** to `**RESUBMIT`._\*\*</aside>
