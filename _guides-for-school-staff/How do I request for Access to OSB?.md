@@ -4,10 +4,12 @@ permalink: /guides-for-school-staff/schoolrequestaccess/
 description: ""
 ---
 # How do I request for Access to OSB?
+----------
 
 On this page, you will learn how to request for access to OneSchoolBus. Once the request is approved, you will be able to access OSB operator portal.
 
 ##### Requesting for Access to OSB in MIMS
+----------
 
 1.  If you do not have access and you will like to access OSB, please go to [](https://mims.moe.gov.sg/)[https://mims.moe.gov.sg](https://mims.moe.gov.sg) to log in to the MIMS portal.
     
