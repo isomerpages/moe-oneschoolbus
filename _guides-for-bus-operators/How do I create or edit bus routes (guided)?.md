@@ -91,7 +91,7 @@ Here you will learn how to
     
 ![](/images/Operator/osb%20ops%2009%20bus%20route%20add%20to%20existing%20stop.png)
     
-2.  Select `Insert student to stop`. A new row will appear below the current row.
+2.  Select **Insert student to stop**. A new row will appear below the current row.
     
 3.  Fill in the student’s name and contact, and press `Save Changes`.
 
