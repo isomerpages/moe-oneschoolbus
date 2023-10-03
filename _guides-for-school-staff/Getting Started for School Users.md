@@ -3,8 +3,7 @@ title: Getting Started for School Users
 permalink: /guides-for-school-staff/gettingstartedschool/
 description: ""
 ---
-Getting Started for School Users
-================================
+# Getting Started for School Users
 
 Welcome to our school application for OneSchoolBus! Here you will find guides on how to use OSB as a school user. It provides step-by-step instructions for users to effectively navigate and utilise the OSB system, covering topics from initial access requests to specific operational tasks. 
 
@@ -12,7 +11,7 @@ Head on to [https://go.gov.sg/osb-school](https://go.gov.sg/osb-school) on your 
 
 * * *
 
-Logging in using MIMS
+##### Logging in using MIMS
 ---------------------
 
 1.  After going to [https://go.gov.sg/osb-school](https://go.gov.sg/osb-school), you will be redirected to the MIMS login portal after pressing the **Login** button.
