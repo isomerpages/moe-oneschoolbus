@@ -15,21 +15,21 @@ How do I create a bus route?
     
  ![](/images/Operator/osb%20ops%2004%20create%20route.png)
     
-    **School:** What school does this route serve? If your school is not on the dropdown, please contact the school’s Admin Manager to add you to the system.
+**School:** What school does this route serve? If your school is not on the dropdown, please contact the school’s Admin Manager to add you to the system.
+
+**Pick Up/Drop Off:** The route is `Pick Up` if students are going to school, and `Drop Off` if the students are returning home.
     
-    **Pick Up/Drop Off:** The route is `Pick Up` if students are going to school, and `Drop Off` if the students are returning home.
-    
-    **Bus Route:** The name of the bus route for your reference. (Example: AM1, AM2, PM1, PM2)
-    
-    **Bus No.:** The bus no. will be reflected on the drivers’ attendance app. (Example: Bus 1, Bus 2)
-    
-    **Vehicle Plate No.:** The license plate number of your buses.
-    
-    **Vehicle Capacity:** The maximum number of students that can fit in your bus.
-    
-    **Start Time/Dismissal Time:** If this is a pick-up route, start time refers to the time at the first stop. If this is a drop-off route, start time is when your bus leaves school.
-    
-    **Driver/Attendant Mobile Number**: We use this mobile number for your staff to log into the attendance app, so make sure this is correct. For foreign numbers, add the country code in front, eg `+60`. Any changes to the name and contact number here
+**Bus Route:** The name of the bus route for your reference. (Example: AM1, AM2, PM1, PM2)
+
+**Bus No.:** The bus no. will be reflected on the drivers’ attendance app. (Example: Bus 1, Bus 2)
+
+**Vehicle Plate No.:** The license plate number of your buses.
+
+**Vehicle Capacity:** The maximum number of students that can fit in your bus.
+
+**Start Time/Dismissal Time:** If this is a pick-up route, start time refers to the time at the first stop. If this is a drop-off route, start time is when your bus leaves school.
+
+**Driver/Attendant Mobile Number:** We use this mobile number for your staff to log into the attendance app, so make sure this is correct. For foreign numbers, add the country code in front, eg `+60`. Any changes to the name and contact number here
     
 3.  You will now see your created bus route, as below.
     
