@@ -13,9 +13,9 @@ The MOE HQ School Bus Exercise is conducted annually, typically by the end of Fe
 ##### 1\. How do I check my bus operators’ data entry progress for the MOE HQ School Bus exercise?
 
 
-*   Click on `**Data Exercise**` to check the data entry progress for each of the your bus operators.
+*   Click on **Data Exercise** to view the data entry progress for each of the your bus operators. Click Show more to view the progress or what is incomplete.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a22d30c3-aca6-4e0f-adf8-fb58fb3ea43e/Untitled.png)
+![](/images/School/MOE%20HQ%20Data%20Exercise/school-click%20on%20data%20exercise.png)
 
 *   You can click on the **`Students`** or the **`Routes`** to check on the missing information that your operators have yet to enter. If your operators have questions about completing the missing information, you may redirect them to this guide: [How do I complete the MOE HQ School Bus Exercise? (Operators)](https://www.notion.so/How-do-I-complete-the-MOE-HQ-School-Bus-Exercise-Operators-a41470fbe74b430fa4d44b744a23956e?pvs=21)
 
