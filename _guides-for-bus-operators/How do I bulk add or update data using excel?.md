@@ -74,4 +74,4 @@ Step 3: View Summary - Error. Click "Download" to get a file with the problemati
 
 Step 3: View Summary - Upload Summary. This table shows the reasons the uploaded file failed.
 
->💡 If you are having difficulties with Class Name, remember that it’s an optional field! Feel free to leave it blank. Our system may be able to autofill the value for you if it can find the student in our system!
+💡 If you are having difficulties with Class Name, remember that it’s an optional field! Feel free to leave it blank. Our system may be able to autofill the value for you if it can find the student in our system!
