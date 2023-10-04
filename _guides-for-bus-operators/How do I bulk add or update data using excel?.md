@@ -75,10 +75,4 @@ Step 3: View Summary - Error. Click "Download" to get a file with the problemati
 Step 3: View Summary - Upload Summary. This table shows the reasons the uploaded file failed.
 
 <aside> 💡 If you are having difficulties with `Class Name`, remember that it’s an optional field! Feel free to leave it blank. Our system may be able to autofill the value for you if it can find the student in our system!
-
 </aside>
-
-What's next?
-------------
-
-[How do I see my bus routes?](https://www.notion.so/How-do-I-see-my-bus-routes-b75461e084b34d59a53672ab553466ba?pvs=21)
