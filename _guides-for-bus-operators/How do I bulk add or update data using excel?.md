@@ -7,9 +7,9 @@ description: ""
 ----------
 
 ### Bulk Update
-On this page, you will learn how to upload or update a lot of data at one go in OneSchoolBus. This data comprises of your route, driver, and student information.
+On this page, you will learn how to upload or update a lot of data at one go in OneSchoolBus. This data comprises of your route, driver, and student information. 
 
-First, click on `Routes`, and then `Bulk Update` on the top navigation menu.
+First, click on **Routes**, and then **Bulk Update** on the top navigation menu.
 
 ![Bulk Update ](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e013842-7b9b-4577-adac-0094c3c468aa/Screenshot_2022-09-01_at_2.09.46_PM.png)
 
@@ -74,5 +74,4 @@ Step 3: View Summary - Error. Click "Download" to get a file with the problemati
 
 Step 3: View Summary - Upload Summary. This table shows the reasons the uploaded file failed.
 
-<aside> 💡 If you are having difficulties with `Class Name`, remember that it’s an optional field! Feel free to leave it blank. Our system may be able to autofill the value for you if it can find the student in our system!
-</aside>
+>💡 If you are having difficulties with Class Name, remember that it’s an optional field! Feel free to leave it blank. Our system may be able to autofill the value for you if it can find the student in our system!
