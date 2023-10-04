@@ -3,11 +3,11 @@ title: How do I delete a bus route?
 permalink: /guides-for-bus-operators/busoperatordeletebusroute/
 description: ""
 ---
-How do I delete a bus route?
-============================
+# How do I delete a bus route?
 
-Deleting a bus route
---------------------
+----------
+##### Deleting a bus route
+
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7ca2f758-fc7f-49d1-a0d1-6253fa7b6313/Untitled.png)
 
