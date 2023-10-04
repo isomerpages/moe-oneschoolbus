@@ -5,7 +5,7 @@ description: ""
 ---
 # How do I create or edit bus routes (guided)?
 ----------
-Here you will learn how to 
+Here you will learn how to create bus routes in OSB using the guided approach.
 
 ----------------------------
 ##### How do I create a bus route?
