@@ -3,23 +3,19 @@ title: How do I bulk add or update data using excel?
 permalink: /guides-for-bus-operators/busoperatorbulkupdate/
 description: ""
 ---
-How do I bulk add or update data using excel?
-=============================================
+# How do I bulk add or update data using excel?
+----------
 
-Bulk Update
-===========
-
+### Bulk Update
 On this page, you will learn how to upload or update a lot of data at one go in OneSchoolBus. This data comprises of your route, driver, and student information.
 
 First, click on `Routes`, and then `Bulk Update` on the top navigation menu.
 
 ![Bulk Update ](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e013842-7b9b-4577-adac-0094c3c468aa/Screenshot_2022-09-01_at_2.09.46_PM.png)
 
-Bulk Update
+----------
 
-Step 1: Select Preferences
---------------------------
-
+##### Step 1: Select Preferences
 1.  You will see the page `Preferences`. Select the options under each step.
     
     ![Step 1: Select Preferences](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9386b36f-a1bc-467d-b0d3-5eea62c1145a/Untitled.png)
@@ -33,10 +29,11 @@ Step 1: Select Preferences
     3.  `B. Select preferred method to add/update data`: This option is only available as step B if you have data for this year, and are adding data for next year.
         1.  Selecting `Automatically copy this year's data to next year` allows you to let OneSchoolBus duplicate this year's information to next year without needing Excel. If you choose this option, you will move directly to `Step 3: View summary` when you press `Proceed`.
 2.  Press `Proceed`.
-    
 
-Step 2: Download and upload template
-------------------------------------
+----------
+
+##### Step 2: Download and upload template
+
 
 ![Step 2: Download and upload template. Click on "Download" for the template to fill in, and "select a file" when you have the file ready. ](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c278d0a6-4302-43fa-8ef9-10a2ca1f9079/Untitled-1.png)
 
@@ -55,8 +52,8 @@ Step 2: Download and upload template. Click on "Download" for the template to fi
 2.  After filling in the necessary information, upload the completed file by dragging the file from your directory, or clicking on `select a file` in the dotted box.
 3.  Press `Next`.
 
-Step 3: View summary
---------------------
+----------
+##### Step 3: View summary
 
 ![Step 3: View Summary - Success Screen](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2d9ece70-da81-455a-9b2a-b2f0eda35598/Untitled.png)
 
