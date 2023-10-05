@@ -29,7 +29,7 @@ Head on to [**OneSchoolBus Ops Portal**](https://go.gov.sg/osb) to start your ex
 
 ## **2. Let’s Get Started**
 
-There are two ways to input data into OSB: manually enter the data into the system or use an Excel bulk update.
+There are two ways to input data into OSB: manually enter the data into the system or use an Excel bulk update. You may use the following diagram below to guide you on which data entry method to use.
 
 ![](/images/Operator/osb%20ops%2003%20routes-home-flowchart.png)
 
@@ -43,4 +43,3 @@ There are two ways to input data into OSB: manually enter the data into the syst
 - If you would like to add data via an Excel template, click on the link below:
    [How do I bulk add or update data using Excel?](https://www.notion.so/How-do-I-bulk-add-or-update-data-using-excel-7a3fd58c3ce64784a377c27b36b3bb4b?pvs=21).
 
-You may use the following diagram below to guide you on which data entry method to use.
