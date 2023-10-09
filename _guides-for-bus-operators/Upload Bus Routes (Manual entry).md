@@ -3,9 +3,9 @@ title: Upload Bus Routes (Manual entry)
 permalink: /guides-for-bus-operators/busopuploadbusroutesmanual/
 description: ""
 ---
-# Category 2: Bus Routes: Guide Title: Managing Bus Routes
+# Creating Bus Routes (Manual entry)
 
-## 2.1 Creating and Editing Routes Manually
+
 
 ### How do I create a bus route?
 
