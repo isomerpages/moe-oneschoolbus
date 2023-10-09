@@ -3,40 +3,23 @@ title: How do I see my students?
 permalink: /guides-for-bus-operators/busoperatorstudentpage/
 description: ""
 ---
-# How do I see my students?
+# Accessing Attendance Reports
+Learn how to download attendance reports with ease.
 
-----------
-##### Students
+### 6.1 Downloading Attendance Reports
+Learn how to download attendance reports effortlessly.
 
+#### How do I download attendance reports?
 
-![Screenshot 2022-09-01 at 2.13.59 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8342ea08-cfaa-4791-a63f-921eda4c6adc/Screenshot_2022-09-01_at_2.13.59_PM.png)
-
-1.  On the top navigation menu, select `Students`. The menu will expand to show all your schools on OneSchoolBus.
+1. On the top navigation menu, select `Students`, then `Attendance`. 
     
-2.  Click on the school which you want to view.
+    ![Screenshot 2022-09-01 at 2.15.34 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/12df0ec8-e989-4316-b464-a05702779da2/Screenshot_2022-09-01_at_2.15.34_PM.png)
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f3afe355-1ff4-4fa0-a630-48d1a68042d0/Untitled.png)
+2. Select the school you wish to download. You will be brought to the `Attendance Report` page.
     
-    <aside> 💡 Students are divided into year tabs to store data for multiple years. Select the year you wish to look at.
+    ![Attendance Page](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1d6aa3e0-907d-49b7-8494-04a19ca34426/Untitled.png)
     
-    </aside>
+    - Attendance Page
     
-    <aside> 💡 The `Name`, `Gender`, `Class`, and `Bus Fare` columns can be sorted in ascending or descending order.
-    
-    </aside>
-    
-    <aside> 💡 To find a specific student, type part or all of their name into the search bar. The list of students gets filtered as you type.
-    
-    </aside>
-    
-----------
-
-##### I've added students but I can't see them on my current page.
-
-
-Click on the different schools on the side bar and year tabs above the student table to check if you have added the students to another school or year.
-
-----------
-##### I serve multiple schools. Why do I only see one school students?
-
-If the list of schools you serve are not reflected in this page, please contact us via email at [schoolbus@estl.edu.sg](mailto:schoolbus@estl.edu.sg)!
+3. Set the `From` and `To` dates, which are by default set to today. If you wish to download the attendance for a specific bus route, select the route from the `Select Routes` dropdown.
+4. Click on `Download Report`.
