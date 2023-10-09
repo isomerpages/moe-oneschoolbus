@@ -21,10 +21,6 @@ description: ""
 
 ## Help! I've added bus routes but I can't see them on my current page.
 
-Click on the different year tabs to check if you have added the bus routes to a different year instead.
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7ca2f758-fc7f-49d1-a0d1-6253fa7b6313/Untitled.png)
-
 1. Select `Routes` and `Bus Routes` on the top navigation menu.
 2. On the sidebar, select the desired route under the school name.
 3. Click on the `Delete Route` button at the top-right of the page.
@@ -35,6 +31,7 @@ Click on the different year tabs to check if you have added the bus routes to a 
 1. On the top navigation menu, select `Bus Routes`.
 2. Check that the correct year is selected on the tabs on the left navigation menu.
 3. Select the route that you would like to export.
+![](/images/Operator/bus%20op%20export%20bus%20route.png)
 4. Click on `Export` and select either:
     1. `Export this route`, and all the details of this selected bus route will be downloaded to an excel file.
-    2. `Export all routes (2022)`, and all bus routes will be automatically downloaded to an Excel file.
+    2. `Export all routes (2023)`, and all bus routes will be automatically downloaded to an Excel file.
