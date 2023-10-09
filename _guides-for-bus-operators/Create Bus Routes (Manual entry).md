@@ -4,6 +4,16 @@ permalink: /guides-for-bus-operators/busopcreatebusroutesmanual/
 description: ""
 ---
 # Creating Bus Routes (Manual entry)
+---
+This page provides step-by-step instructions for manually creating and managing bus routes in the system.
+The instructions cover tasks such as 
+- creating new routes
+- editing route details
+- adding stops and students
+- rearranging stop orders and 
+- deleting routes.
+
+---
 
 ### How do I create a bus route?
 
