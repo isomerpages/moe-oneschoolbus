@@ -76,11 +76,11 @@ Below are the commonly met issues that operators face when uploading data via bu
 
 - Right click on the morning bus and click move or copy as shown below
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/72873630-e11a-449a-a587-2d586b413c54/Untitled.png)
+![](/images/Operator/bus%20ops%20move%20or%20copy.png)
 
 - Right click on the morning bus and click move or copy as shown below. Then rename the bus
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1378cede-d239-40ac-bc17-8bb8520d8d9b/Untitled.png)
+![](/images/Operator/bus%20ops%20rename%20after%20duplicating.png)
 
 - Change the duplicated sheet details
    - Route name Bus 1 IN —> Bus 1 Out
@@ -91,17 +91,15 @@ Below are the commonly met issues that operators face when uploading data via bu
 
 - Look at a sample of a completed excel list below.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b2080f92-0cd1-4d21-973f-37cc684ef468/Untitled.png)
+![](/images/Operator/leave%20blank.png)
 
 - Do note that you do not need to drag route details for all student rows. just complete the first row will do. leave the rest of the cells blank.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a0d0f08a-83be-45bb-a1b1-b2707228f265/Untitled.png)
+![](/images/Operator/bus%20ops%20do%20not%20need%20to%20drag%20down.png)
 
 💡 If you are having difficulties with student class, remember that this is an optional field! Feel free to leave it blank. Our system may be able to autofill the value for you if it can find the student in our system!
 
 #### 4: Try to fill up all fields (i.e. school fees and postal code)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b2080f92-0cd1-4d21-973f-37cc684ef468/Untitled.png)
 
 - Try to fill up all fields e.g. school fees and postal code even though its optional (no asterix)
 - This is because these fields are required for submission to HQ. It might be easier to add them in as a bulk update now than adding them later on manually for data submission.
