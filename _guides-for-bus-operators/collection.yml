@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Getting Started for Bus Operators.md
-      - How do I create or edit bus routes (guided)?.md
+      - Managing Bus Routes.md
       - How do I bulk add or update data using excel?.md
       - Tips and hacks to input data faster with excel bulk update.md
       - How do I see my bus routes?.md
