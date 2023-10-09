@@ -33,12 +33,12 @@ There are two ways to input data into OSB: manually enter the data into the syst
 
 ![](/images/Operator/osb%20ops%2003%20routes-home-flowchart.png)
 
-### **How to Create Route Manually (1)**
+### **How to Create Bus Routes (Manually)**
 
-- Please refer to the following page for a step-by-step guide to create bus routes manually:
+- Please refer to the next page for a step-by-step guide to create bus routes manually:
    [How do I create or edit bus routes?](https://www.notion.so/How-do-I-create-or-edit-bus-routes-b9ec2ab69c2d4c208f1c2426c96ad952?pvs=21)
 
-### **How to Add Data Using Excel (2)**
+### **How to Upload Bus Routes (Bulk Update)**
 
 - If you would like to add data via an Excel template, click on the link below:
    [How do I bulk add or update data using Excel?](https://www.notion.so/How-do-I-bulk-add-or-update-data-using-excel-7a3fd58c3ce64784a377c27b36b3bb4b?pvs=21).
