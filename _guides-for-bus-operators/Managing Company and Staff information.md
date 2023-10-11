@@ -70,14 +70,15 @@ Learn how to add relief drivers or attendants to your routes.
 
 #### How to add a relief driver?
 
-##### Add a relief driver or attendant
+![](/images/Operator/bus%20ops%20bus%20routes%20selecting.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ee83e150-9ba4-417b-b24b-3c9112993ae8/Untitled.png)
-
-1. On the top navigation menu, select `Routes`, then select `Bus Routes`. 
-2. All the schools that you are serving will be displayed on the left sidebar, e.g. `ESTL Primary School`.
+1. On the top navigation menu, select `Routes`, then select `Bus Routes` 
+2. All the schools that you are serving will be displayed on the left sidebar, e.g. `ESTL1 Primary School`.
 3. Click on the school to see all the routes you have created for the school, then select the route which needs a relief driver or attendant.  
+
+![](/images/Operator/bus%20ops%20add%20relief%20staff%20button.png)
 4. Click on `Add Relief Staff`.
+
 5. Fill in the fields on the form and press `Save`
     - You may add more than 1 relief staff per route. Just click on `Add another staff` to do so. Please note that relief staff account will expire on a single date of your choice.
 
