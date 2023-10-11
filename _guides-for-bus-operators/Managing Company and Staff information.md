@@ -79,10 +79,10 @@ Learn how to add relief drivers or attendants to your routes.
 ![](/images/Operator/bus%20ops%20add%20relief%20staff%20button.png)
 4. Click on `Add Relief Staff`.
 
-5. Fill in the fields on the form and press `Save`
-    - You may add more than 1 relief staff per route. Just click on `Add another staff` to do so. Please note that relief staff account will expire on a single date of your choice.
+![](/images/Operator/bus%20ops%20add%20relief%20staff%20page.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9bc362ce-42e9-45dd-b065-a275c7b5d6c3/Untitled.png)
+5. Fill in the fields on the form and press `Save`
+- You may add more than 1 relief staff per route. Just click on `Add another staff` to do so. Please note that relief staff account will expire on a single date of your choice.
 
 - **Driver/Attendant Name**: If you enter an existing Driver/Attendant name, we will auto-fill their mobile number. Otherwise, just enter the name then proceed to the next field. 
 
