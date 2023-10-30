@@ -2,7 +2,7 @@ collections:
   guides-for-bus-operators:
     output: true
     order:
-      - 1) Getting Started for Bus Operators.md
+      - Getting Started for Bus Operators.md
       - Create Bus Routes (Manual entry).md
       - Upload Bus Routes (Bulk update).md
       - Managing Bus routes on OSB.md
