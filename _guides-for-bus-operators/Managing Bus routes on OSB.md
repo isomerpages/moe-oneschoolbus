@@ -9,8 +9,8 @@ On this page, you will learn how to manage the bus routes you have uploaded in O
 
 
 ---
-## Accessing the Bus Routes You Have Uploaded
-
+### Accessing the Bus Routes You Have Uploaded
+**![](https://lh7-us.googleusercontent.com/lEUPR-YN8fHbYBgRbZMa5XrTPyIFmgJu3f82_X9e9W0w9AjUoMvIlYKrLBr8WPEXPU24S9xk6sWbw1FaRXVs8TbThMNiCgk07shrdexRvl_rvLb0KtALunNfk7ddvBVe1C9986Xi8RTQhNalqVSWmWVInqoQGqjQc7U0GOyT2JSw4_rkHuyD2IntCQYYQg)**
 On the top navigation menu:
 1. Select Routes, then select Bus Routes.
 2. All the schools that you are serving will be displayed on the left sidebar, e.g., ESTL Primary School. Click on the school to see all the routes you have created for the school, then select one of the routes to view it. 
@@ -22,6 +22,7 @@ On the top navigation menu:
 
 ---
 ## Delete Bus Route
+**![](https://lh7-us.googleusercontent.com/_skT2Rw34VauaQDi-52cFgw8lBSZjx87CJv3TNXEGm2Gr1zt55nUkvHu8YhvUqjrOr_Mzw348nZP6-RCkcT4u7cIIHvC66-ldUEEEzYLCuuTgrp5v6yGXLSl9xrMY9xGbmdbM71leKua35DhUZnWm4VDvOJ9HEmzMhlikyK0vf8Q-0l_98gA6d3yIqvocw)**
 
 On the top navigation menu, select Routes, then select Bus Routes to display Routes Summary page.
 1. On the sidebar, select the desired route(s) under the school name.
@@ -34,6 +35,8 @@ A pop-up will appear to confirm. Click on the Delete button on the pop-up to con
 ## Export Bus Route
 
 On the top navigation menu, select Bus Routes. Check that the correct year is selected on the tabs on the left navigation menu. Select the route that you would like to export.
+
+**![](https://lh7-us.googleusercontent.com/qtToyfowgPtAXkLxn8zl-M-x3r9mZO-Awgk_StcERzRlfX64XXiNS12ZcJunpEd5_NG0YX8nR-sSRwuZdIcYF-HDt8knfJC8I5Fx9x3pFJ2h2Zxx2jQ3mRN4A47YPlJTWkAOAt8VWRKU1lKni_WeQl9bJBzO47DKUezLilBrTnkcajRi7XhB0Q-_JL9EbQ)**
 1. Click on Export and 
 2. Select either:
    - Export this route, and all the details of this selected bus route will be downloaded to an excel file.
