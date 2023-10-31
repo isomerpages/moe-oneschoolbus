@@ -7,7 +7,7 @@ description: ""
 
 On this page, you will learn how to navigate the pages within One School Bus.
 
-## Top Navigation Bar Pages
+### Top Navigation Bar Pages
 
 1. **Students (Most fields View-only):** Lists your students who take the school bus, as submitted by the operators. You may input the FAS status here.
 2. **Routes (View-only):** Shows your bus operators' pick-up and drop-off routes.
