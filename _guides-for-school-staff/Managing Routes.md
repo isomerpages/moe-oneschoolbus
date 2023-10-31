@@ -10,6 +10,7 @@ On this page, you will learn how to view all the routes input by your bus operat
 
 ---
 ### Route Page
+**![](https://lh7-us.googleusercontent.com/GZspO7yhoIwkoostN8Gn1CjqbNPshdGYK2wQTdfskGBDesqOubo2BK3RktlOT49mxwRSV02S7uUSjQPNdp-Z1N6dvMaquNSezryuKytYChtpTl5bnv6u1dMqbmYvxoVbJDiadOmp4adqLH-FTrRwORY)**
 
 1. Click on the "Routes" to access the Route page.
 
