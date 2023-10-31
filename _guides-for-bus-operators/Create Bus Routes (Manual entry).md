@@ -19,19 +19,18 @@ This page provides step-by-step instructions for manually creating and managing 
 ---
 
 ## Creating New Bus Routes
+**![](https://lh7-us.googleusercontent.com/ii5PDbreaC9piR8xUHHTFskqzeVhBcMUr7rWVB1VFbma9xW41Z_S7RhQk0gFRsdXbNl5DmwbpA-xULTHItPYOKw9nh3M9RdhKIfvjyvEJLFAp3Bbh2VLRzCLX8_ujGWQpmBUyf6-YZv2kez2AoLyOVm9H-f_4YSDfNtNE23O8J3ij99bf6deIfD-D0x07A)**
+Click on the **Create Route** button on the left sidebar and fill in the fields on the form:
+1. **School**: What school does this route serve? If your school is not on the dropdown, please contact the school’s Admin Manager to add you to the system.
+2.**Pick Up/Drop Off**: The route is Pick Up if students are going to school, and Drop Off if the students are returning home.
+3. **Bus Route**: The name of the bus route for your reference. (Example: AM1, AM2, PM1, PM2)
+4. **Bus No.**: The bus no. will be reflected on the drivers’ attendance app. (Example: Bus 1, Bus 2)
+5. **Vehicle Plate No.**: The license plate number of your buses.
+6. **Vehicle Capacity**: The maximum number of students that can fit in your bus.
+7. **Start Time/Dismissal Time**: If this is a pick-up route, start time refers to the time at the first stop. If this is a drop-off route, start time is when your bus leaves school.
+8. **Driver/Attendant Mobile Number**: We use this mobile number for your staff to log into the attendance app, so make sure this is correct. For foreign numbers, add the country code in front, e.g. +60.
 
-1. Click on the **Create Route** button on the left sidebar and fill in the fields on the form:
-
-   - **School**: What school does this route serve? If your school is not on the dropdown, please contact the school’s Admin Manager to add you to the system.
-   - **Pick Up/Drop Off**: The route is Pick Up if students are going to school, and Drop Off if the students are returning home.
-   - **Bus Route**: The name of the bus route for your reference. (Example: AM1, AM2, PM1, PM2)
-   - **Bus No.**: The bus no. will be reflected on the drivers’ attendance app. (Example: Bus 1, Bus 2)
-   - **Vehicle Plate No.**: The license plate number of your buses.
-   - **Vehicle Capacity**: The maximum number of students that can fit in your bus.
-   - **Start Time/Dismissal Time**: If this is a pick-up route, start time refers to the time at the first stop. If this is a drop-off route, start time is when your bus leaves school.
-   - **Driver/Attendant Mobile Number**: We use this mobile number for your staff to log into the attendance app, so make sure this is correct. For foreign numbers, add the country code in front, e.g. +60.
-
-2. Press **Save** after you fill in the form. You will now see your created bus route.
+Press **Save** after you fill in the form. You will now see your created bus route.
 
 ---
 
