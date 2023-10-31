@@ -2,8 +2,8 @@ collections:
   guides-for-school-staff:
     output: true
     order:
-      - Managing Students.md
       - Getting Started for School Users.md
       - Navigating One School Bus.md
+      - Managing Students.md
       - How do I request for Access to OSB?.md
       - MOE HQ School Bus Exercise (Schools).md
