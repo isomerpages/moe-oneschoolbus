@@ -7,31 +7,26 @@ description: ""
 
 Welcome to our school application for OneSchoolBus! Here you will find guides on how to use OSB as a school user. It provides step-by-step instructions for users to effectively navigate and utilize the OSB system, covering topics from initial access requests to specific operational tasks.
 
-Head over to [https://go.gov.sg/osb-school](https://go.gov.sg/osb-school) on your desktop to begin using the application.
+Head over to [OSB School Application](https://go.gov.sg/osb-school) on your desktop to begin using the application.
 
 ---
+### Logging in using MIMS
 
-## Logging in using MIMS
+After visiting [OSB School Application](https://go.gov.sg/osb-school):
 
-1. After visiting [https://go.gov.sg/osb-school](https://go.gov.sg/osb-school), click the **Login** button to access the MIMS login portal.
+1. Click the Login button to proceed.
+2. You will be brought to the MIMS Login Page where you can enter your MIMS login credentials and click Sign in.
 
-![MIMS Login Page](/images/mimsloginpage.png)
+The following personnel should have default access to OSB (by MIMS from Nov ‘22):
+- Vice Principal (Administration)
+- School Admin Manager
+- School Admin Executive
+- School Operations Manager
 
-2. Enter your MIMS login credentials and click **Sign in**.
+**Note:** If you receive an error message like "You do not have permissions to access the school bus application" (as shown above), you will need to request access from the MIMS dashboard. You may click on the link to the left to request access to OSB.
 
-![MIMS Login Credentials](/images/School/Getting%20started%20school%20users/screenshot%202023-10-03%20094621.png)
 
-3. Upon successful login, you will be redirected to the OSB students page for your school, as shown in the screenshot above.
+---
+### OSB Students Page
 
-![OSB Students Page](/images/osbschoolloginissue.png)
-
-4. If you receive an error message like **You do not have permissions to access the school bus application** (as shown above), you will need to request access from the MIMS dashboard. Refer to this page for more information.
-
-5. The following personnel should have default access to OSB (by MIMS from Nov ‘22):
-    
-    - Vice Principal (Administration)
-    - School Admin Manager
-    - School Admin Executive
-    - School Operations Manager
-
-_**Note:** If you do not have access, please refer to point 4 for instructions._
+Upon successful login, you will be redirected to the OSB students page for your school.
