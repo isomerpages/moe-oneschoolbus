@@ -11,6 +11,7 @@ On this page, you will learn how to view all the student information input by yo
 
 
 ### Student Page
+**![](https://lh7-us.googleusercontent.com/LcZDFwU0Q9Cnj7RDr8qqM2TGXrmrPuBFyZZHwfgTVpRduv-HiTAfCEZ9gn5BNBgIiN6ayEfXMUSWJtUwa9j1715kfYjn_-kAIyHqXRmWXOgQVQ9VfjVVLnRzFkbMIQQxF-EbdYJPMiaZ-b8T7XiM_Ss)**
 
 Most of the data will be greyed out as these data are input by school bus operators. 
 
