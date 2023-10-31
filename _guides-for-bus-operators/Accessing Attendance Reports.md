@@ -7,7 +7,7 @@ description: ""
 
 Learn how to download attendance reports with ease.
 
-## Accessing and Downloading Attendance Reports
+### Accessing and Downloading Attendance Reports
 
 From the top navigation menu, select Students, then Attendance.
 
