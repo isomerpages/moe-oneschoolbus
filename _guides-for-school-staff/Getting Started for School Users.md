@@ -12,6 +12,7 @@ Head over to [OSB School Application](https://go.gov.sg/osb-school) on your desk
 ---
 ### Logging in using MIMS
 
+**![](https://lh7-us.googleusercontent.com/giKsoXY0NmsnDS0U44r9685E5tOZHJpIGR2eeNNxbf8tJCjuwny_gkfIqQSbMBg1-9LXBYAs9ZTTP3x4FTWcJNnBcYDWCRPvFq2149_aWgQ_IBQJ52hq1hkI1L9IaHu8HFQquuBvG3qcbrrVZKhbOyI)**
 After visiting [OSB School Application](https://go.gov.sg/osb-school):
 
 1. Click the Login button to proceed.
@@ -30,3 +31,4 @@ The following personnel should have default access to OSB (by MIMS from Nov ‘2
 ### OSB Students Page
 
 Upon successful login, you will be redirected to the OSB students page for your school.
+**![](https://lh7-us.googleusercontent.com/EOJPnZ7wcJmrDGQG6wNDqEmwU4TBFxpHlSSo1bUxgYJXBh96X5RhYyZbDqzJKadhcY-ORyAGnfZen9RvsASbf9We6pSDw2aRtbyUIHpFH--j8I8StGyu_NLy6VUCHEL0AVwUNQKcuOmJ5i-eSCnc7rE)**
