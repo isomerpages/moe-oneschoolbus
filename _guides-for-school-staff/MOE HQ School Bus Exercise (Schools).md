@@ -55,7 +55,7 @@ Sometimes, you may come across students whose identities need verification on th
 *   Should any data need changes, you can liaise and message your bus operator directly before clicking Next on the data submission page.
     
 
-  
+---
 
 ### Submitting Data to HQ and Concluding the Submission Exercise
 
