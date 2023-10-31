@@ -11,6 +11,8 @@ On this page, you will learn how to view the attendance input by your bus driver
 ---
 ### Attendance Reports
 
+**![](https://lh7-us.googleusercontent.com/tO35acSgAeF49Gap6oG53ObB6vFqot50zHyF1vey6oQazNdnjxowzTZs2AlA3yCRKFgYYFUatkgJ6xw-OqHUeWwrLyz55jGZmcuENjeb9kfBlmWKtUd3HzbBkDwKLxDEsiVZqTk-cTKe_Cyzee5rC9Y)**
+
 1. Click on "Attendance" to access the attendance report page.
 
 2. Select the date range of the attendance report you would like to acquire.
