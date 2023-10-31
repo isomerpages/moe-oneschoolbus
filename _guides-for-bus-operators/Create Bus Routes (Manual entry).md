@@ -35,7 +35,7 @@ Press **Save** after you fill in the form. You will now see your created bus rou
 ---
 
 ## Edit Bus Route Information
-
+**![](https://lh7-us.googleusercontent.com/A91bqCx3RdMJ5C2LqoXG2jgeiHivj98rcMlah4yOv-lzOhu3qknkcTQwuJPVVagpWdpBhL8jVOys76Yqoejccl8kXqLhCzL0Oid--M3eo603FSEkCFaK98BoBU5hp0wuIiIQiRcHa6sB1Y9YoQxKexWF5n8hzprAPwT0FI3wp08VmovJ-7is2-iQr9yLdg)**
 1. Click on the **Edit** button to the right of the route information.
 2. A form will appear with the route information pre-filled. Make changes to the fields you desire.
 3. Press the **Save** button on the form.
@@ -43,19 +43,21 @@ Press **Save** after you fill in the form. You will now see your created bus rou
 ---
 
 ## Add Stops and Students to the Bus Route
+**![](https://lh7-us.googleusercontent.com/ZpU7jxo45CD6p8csm2DY6M-TOD4l_I4iH2Pd444sYO3ZSi3l1Fq8ueSHbtmFnaCrUuQCC60bPt55pw0rA2SCe3bQJldO1wNDe5DNH4b0wSy185zgc3MumvwSHjPLwSkOzkQBzlJzMdqY5Mv3siNn3aduRQx0AaNiFeDWKoNexbzfWg4i-nvAQ46xzTnqaQ)**
+Click on the **+** button below the table header. An empty row will appear.
+Fill in the information of the first student in the cells of the empty row:
 
-1. Click on the **+** button below the table header. An empty row will appear.
-2. Fill in the information of the first student in the cells of the empty row:
+1. **Name (Required)**: Student name
+2. **Contact (Required)**: Contact number for the parent of the student
+3. **Contact 2**: The second parent contact number for the student, if any
+4. **Stop Address (Required)**: Address for the stop, e.g., 565 Balestier Road
+5. **Postal Code**: Postal code for the stop
+6. **Pick-Up/Drop-Off Time**: Scheduled time at the stop
+7. **Days taking Bus**: Default is that students will be taking the bus every day. Tap M, T, W, T, F to turn off the student if not taking the bus on that day.
 
-   - **Name (Required)**: Student name
-   - **Contact (Required)**: Contact number for the parent of the student
-   - **Contact 2**: The second parent contact number for the student, if any
-   - **Stop Address (Required)**: Address for the stop, e.g., 565 Balestier Road
-   - **Postal Code**: Postal code for the stop
-   - **Pick-Up/Drop-Off Time**: Scheduled time at the stop
-   - **Days taking Bus**: Default is that students will be taking the bus every day. Tap M, T, W, T, F to turn off the student if not taking the bus on that day.
 
-3. Press **Save Changes** button above the table.
+**![](https://lh7-us.googleusercontent.com/WKiDqQJ7G5WVSBdyjqKcyNaH0LOJoxREt1lzn4JA_YSrY0rb4c0bSTO8HWCLCxZLGXNHeHBy--W0uuPVWPyUTK8vzbwslZiRPgjDkm0Klrgy0ALNxAyabey1Z5-PFQ-uil7ZfOIJLkui_w5w3-9vEBqEiSYlmfma-B4g1kqHyjdFjHhQneyCPYNUJboPkg)**
+Press **Save Changes** button above the table.
 
 **Note:**
 
@@ -66,7 +68,7 @@ Press **Save** after you fill in the form. You will now see your created bus rou
 ---
 
 ## Adding Students to a Stop
-
+**![](https://lh7-us.googleusercontent.com/81Qca7VRQNxdV3wnWQE1PsiXb94nw2XosKW-C7QKLPB2My45xLkQhE0PIikbQw0xRLp6TreWmRgGxivQrRlx0sChs8gFAFL0N61gvKCOtSNIgejS68h9krjX4vzsaXRaDx8JzZYX_k1yvJCdnbHavz6XNldljwwil3ZQER7KFLyxSjJiYw7dVTwVwy-pBA)**
 1. Hover over the first cell (Stop #) of the row. A checkbox and a menu button will pop up.
 2. Select **Add student to stop**. A new merged row will appear below the current row.
 3. Fill in the student’s name and contact.
@@ -75,7 +77,7 @@ Press **Save** after you fill in the form. You will now see your created bus rou
 ---
 
 ## Add a New Stop Before or After an Existing Stop
-
+**![](https://lh7-us.googleusercontent.com/O3SmRM3JltvFuB-b103_Yi-h82Xz50YyNes_oEtdrH3Fd1-vfs66GeA-NCV-1PQYHNqwcZ0QGFYSl4iw8aYuQRH9pgVhx-bTNInRUrKHL0ECPInPwcZGp4_jhrEK1tXyXUVqmkUVPjwgLYGGVMQoWSKPdRtVizmGwQZnipwSklWldB2YsmmZarAt2c85Yg)**
 1. Hover over the first cell (Stop #) of the row. A checkbox and a menu button will pop up.
 2. Select **Insert stop above** in the menu if you want to add a new stop before the current stop, or **Insert stop below** if you want to add a new stop after the current stop. A new row will appear before or after the current stop.
 3. Fill in the student’s name and contact.
@@ -84,7 +86,7 @@ Press **Save** after you fill in the form. You will now see your created bus rou
 ---
 
 ## Separate a Student from a Merged Stop
-
+**![](https://lh7-us.googleusercontent.com/Vskf0VK09vzmWoq6hWrFCATsh_tBqgu5bMRn7c11kGEnGVMpVsGH5nPQLDdFDj0uXbI63l1dd2KXQHMJvVyH5LfdHRDdfZme1tsJK1TK_9QOyl6F9jjIDWPao76r2J8e7NhonqXjb-VnuuEPYW5fSKsHMiPGm39szS0DH6U3ynuyD1CyQMggUZiooPxsSA)**
 If you have multiple students being picked up or dropped off at the same stop, but one of the students is changing their stop, you can move the student out of that stop. Follow the steps below.
 
 1. Hover over the first cell (Stop #) of the row. A checkbox and a menu button will pop up.
@@ -95,7 +97,7 @@ If you have multiple students being picked up or dropped off at the same stop, b
 ---
 
 ## Delete Students/Rows from the Bus Route
-
+**![](https://lh7-us.googleusercontent.com/wWUw4GVDRGfV6vciht6JO4RC_NMO5g4RRo0CvR3_-m_yceqIl8mkt_NcKIdn79Csra5fMJooaTCL7u8ELnckzrue40jcPC1EbdwT3WIhmBmPNX-ajvpWhKLynXhMdfXK5UrZ9Tu8dqaGH6DtN0zlQz-P9_mOGCsuuf-EgXb-WtXTCG--u_3LemWvfpDckw)**
 1. Hover over the first cell (Stop #) of the row. A checkbox and a menu button will pop up. Select the checkbox.
 2. At the bottom of the screen, click on **remove rows**.
 3. Click on **remove rows** again when the confirmation dialog appears, and the row will be removed.
@@ -104,11 +106,13 @@ If you have multiple students being picked up or dropped off at the same stop, b
 ---
 
 ## Change the Order of the Stops
-
-Click on the arrows to the left of the row. The up arrow will move the stop up while the down arrow will move the stop down.
+**![](https://lh7-us.googleusercontent.com/CZFlPme3ZBLz_L5-UKKERuv1TwNFt3bnEmineL2sP9TYXkzZ1R5UvgPVUzcZ6_jj7alr5vPP_YRIQ1oeptW8jmSpGJyU9A-4uCz3GC6NEJoMuvJZ1q3mGwdN404jRXi46ad9Je1U-9ZVFC_zxbsCSrnlkbFt0SDjSA_9qmkjXbb9sHWrD7AQ34GejgGrwA)**
+1. Click on the arrows to the left of the row. 
+2. The up arrow will move the stop up while the down arrow will move the stop down.
 
 ---
 
 ## Delete a Route
-
-Click on the **Delete Route** button to the right of the route information. A confirmation dialog will appear. Click on **Delete** to confirm. The route will then be deleted.
+**![](https://lh7-us.googleusercontent.com/Lak3LOJcYqXS6lTA3uqcKI0AAr-CsOJ3tiE5Ds-fKrdWNWuFIYufH3dIGC9qElmZtbwDe3BLgbayhogXyv2EaPOp43CG4MOHEQogpM6XQ5IqjMFUJnAqLcIijJrvFP4aHHPOUxd8BxItdHJmQFGQmzBYCE73Db_0Kcwl1DsO5FOA39cU-J5Vtykn5644og)**
+1. Click on the **Delete Route** button to the right of the route information. 
+2. A confirmation dialog will appear. Click on **Delete** to confirm. The route will then be deleted.
