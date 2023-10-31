@@ -3,58 +3,41 @@ title: MOE HQ School Bus Exercise (Operators)
 permalink: /guides-for-bus-operators/busoperatorschoolbusexercise/
 description: ""
 ---
-How do I complete the MOE HQ School Bus Exercise? (Operators)
-=============================================================
+# MOE HQ School Bus Exercise (Operators)
 
-The MOE HQ School Bus Exercise is conducted annually, typically by the end of February
+The MOE HQ School Bus Exercise is conducted annually, typically by the end of February.
 
-1\. How do I check my data entry progress for the MOE HQ School Bus exercise?
-=============================================================================
+## Accessing the Data Exercise Page
 
-*   Click on `**Data Exercise**` on the top navigation bar to check your data entry progress for each of the schools you are serving.
+To check your data entry progress for each of the schools you are serving:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/24525dcf-e1e0-432b-834d-c54dbfb42521/Untitled.png)
+1. Click on Data Exercise on the top navigation bar.
+2. You will see the progress of data input for students, which includes any errors in your data. Click on the provided link to access the relevant page for making necessary edits.
+3. Check the progress of data input for routes, along with any associated errors. Click on the provided link to make edits as needed.
+4. Review the progress of data input for your company profile and address any errors by clicking on the provided link.
 
-*   After clicking show more, you should see the progress of the data input for Students, Routes or company profile
+## Updating Missing Student's Information
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1a78c9b0-46b3-4200-ad21-bec50a12ce69/Untitled.png)
+1. Clicking on the Students link from the Data Exercise page leads you to this page.
+2. Ensure the Error/Incomplete Fields filter is on.
+3. Fields that are incomplete or have errors are either shaded Red or Orange. Tap on them to make edits.
+4. Click on Save Changes to complete the modifications.
 
-*   You can click on the **`Students`** , **`Routes`** or **`Company Profile`** to check and fill up the missing information.
+**Note:**
+- If the page is empty with the Error/Incomplete Fields filter on, your students have all the required information.
+- Bus Fare is the original bus fare without subsidy from the Financial Assistance Scheme.
+- In the scenario that the student’s name cannot be found in the MOE database, you can add the last 4 digits of the student’s NRIC/FIN to broaden the search. Alternatively, check that the student’s name is properly spelled and try saving again.
 
-2\. How do I update missing student’s information?
-==================================================
+## Declaring That You Are Unable to Obtain a Match Student by Name or NRIC
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3e379299-fc94-4a81-973f-8596bccdda52/Untitled.png)
+**[Important]** If you have keyed in the last 4 digits of the student’s NRIC/FIN and checked that the student’s name is correct, but the system is still not able to find the student, you will have to declare that the data is accurate to proceed.
 
-*   Clicking on the `**Students**` link from the `**Tasks**` page leads you to this page. The `**Show Errors**` switch should be on.
-    *   If the page is empty, congratulations! Your students have all the required information.
-    *   Bus Fare is one of the requirements that needs to be submitted. This bus fare is the original bus fare without subsidy from the Financial Assistance Scheme.
-    *   In the scenario that the student’s name cannot be found in the MOE database, you can add the last 4 digits of the student’s NRIC/FIN to broaden the search. Alternatively, you could check that the student’s name is properly spelled and try saving again.
+## Completing the Submission for the MOE HQ Annual Exercise
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4143330e-decb-40a0-a375-e4495de27cb7/Untitled.png)
+1. Navigate back to Data Exercise by clicking on the button at the top right of the page.
+2. Click on Show more to view the progress for the Primary School you are serving. Once there are no errors, you are ready to proceed.
+3. Click on Notify School to bring up a pop-up if you are ready to notify school AM via an email that your data is ready for submission to MOE HQ.
 
-<aside> 💡 **\[IMPORTANT\]** If you have keyed in the last 4 digits of the student’s NRIC/FIN and checked that the student’s name is correct, but the system is still not able to find the student, you will have to declare that the data is accurate to proceed.
-
-</aside>
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/20e5cf2a-fee8-42ad-8e0b-d98bfaf0b941/Untitled.png)
-
-3\. How do I know if I have submitted all the necessary data for the MOE HQ annual Exercise?
-============================================================================================
-
-*   Go back to **`Data Exercise`.**
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0f531671-f2b8-4265-be92-cad35ee61ede/Untitled.png)
-
-*   If the progress for the Primary School you are serving shows 100% and the status is ready, you are ready to **`Notify School`**!
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/efed680a-82ae-4085-86ff-77e3cd72cfdf/Untitled.png)
-
-<aside> 💡 **Clicking on Notify school will send an email to the School AM to let them know that your data is ready for checking/submission.**
-
-</aside>
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/64ab671b-099f-47d3-9ce1-3332765aa745/Untitled.png)
-
-*   Once you have notified school, you will receive a confirmation message under to note that you have successfully notified your school that data is ready for submission.
-*   Your school AM will get back to you should any information needs to be added/changed. There is no need to notify a second time should there be any further changes.
+**Note:**
+- Once you have notified school, you will receive a confirmation message to note that you have successfully notified your school that data is ready for submission.
+- Your school AM will get back to you should any information need to be added/changed. There is no need to notify a second time should there be any further changes.
