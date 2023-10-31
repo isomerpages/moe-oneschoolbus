@@ -7,29 +7,42 @@ description: ""
 
 On this page, you will learn how to request access to OneSchoolBus. Once your request is approved, you will be able to access the OSB operator portal.
 
-## Steps to Request Access:
 
-1. If you don't have access and would like to use OSB, please visit [MIMS Portal](https://mims.moe.gov.sg/) and log in using your MIMS credentials.
+---
+  
 
-   ![MIMS Login](/images/School/How%20do%20I%20request%20access%20to%20OSB/screenshot%202023-10-03%20095822.png)
+### MIMS Login
+----------
+![](https://lh7-us.googleusercontent.com/vH9HPltA-bYEPrUGI7itHEUr0BF0JjqsxqGYhRO3O8fGHveEXVbCZ1Tiw8dimAvE-LIIloOnYFjA9_bo1E-vgvvsorFNrB7kO6u5r3sNwb0GvPM-g6cEJegReZkF-B16KIaMucc563USQfDdkaHHV48)
 
-2. After logging in, you'll be on the MIMS dashboard. Select "MIMS Identity Portal."
+1.  Input your username and password
+    
+2.  Click sign in to login. After logging in, you'll be on the MIMS dashboard. Select "MIMS Identity Portal."
+    
 
-   ![MIMS Identity Portal](/images/School/How%20do%20I%20request%20access%20to%20OSB/screenshot%202023-10-03%20100220.png)
 
-3. Tap on "Access" and then click "Request."
+---
 
-   ![Access Request](/images/School/How%20do%20I%20request%20access%20to%20OSB/untitled%20(5).png)
+### MIMS Identity Portal
+--------------------
 
-4. Scroll down to find the OneSchoolBus app.
+![](https://lh7-us.googleusercontent.com/cDUxj4s6jfVV0J89Pb9JyyNSG-mjMY0PLXZ-xGjqXYj5TdKzN7NWbxwXJaN0laFqwXhNhSSTqlXWdOFXUdc6bPbcjUQ270oT6QUUt1I5ZLcrgt6vYefsH9SJtgSsXfChpu-8zRuI9MsP7cy_XwYRYa8)
 
-   ![OneSchoolBus App](/images/School/How%20do%20I%20request%20access%20to%20OSB/untitled%20(3).png)
+  
 
-5. Click on the OneSchoolBus Account icon, and a pop-up will appear below.
+1.  Tap on Access and then click Request.
+    
+2.  Scroll down to find the OneSchoolBus app. Click on the OneSchoolBus Account icon, and a pop-up will appear below.
+    
 
-   ![Request Pop-up](/images/School/How%20do%20I%20request%20access%20to%20OSB/untitled%20(4).png)
+  
 
-6. Fill in the **reason for your request** and tap "Request."
+![](https://lh7-us.googleusercontent.com/XwSfA9umxeCTm1fpGyGk4zV82h_uYs5oLL2MPaqUoTRamdrCaIOLvvhLOLE7VvMM10PkGGvSgKleJHDtx8C-NDxwqGRyJ1OqC2IavjLmqLxcATbayAfxaqaftM4GndEufEBOhE5NYzMIMFwGNd_XPAo)
 
-   - Your request will be submitted to school leaders for approval.
-   - After requesting, inform your school leaders and wait a few days for the request to be approved.
+1.  Fill in the reason for your request and 
+    
+2.  Click on Request. Your request will be submitted to school leaders for approval. 
+    
+**Note:** After requesting, inform your school leaders and wait a few days for the school leaders to review your request and be approved.
+
+**
