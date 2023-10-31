@@ -44,5 +44,3 @@ On this page, you will learn how to request access to OneSchoolBus. Once your re
 2.  Click on Request. Your request will be submitted to school leaders for approval. 
     
 **Note:** After requesting, inform your school leaders and wait a few days for the school leaders to review your request and be approved.
-
-**
