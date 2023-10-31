@@ -5,40 +5,26 @@ description: ""
 ---
 # Getting Started for Bus Operators
 
-----------
-Congratulations for coming onboard OneSchoolBus!
+Head on to OneSchoolBus Ops Portal to start your experience. On this page, you will learn:
+* Logging in
+* Let’s get started
 
-Head on to [**OneSchoolBus Ops Portal**](https://go.gov.sg/osb) to start your experience.
+### Logging in
 
-----------
+1. **Enter your phone number**. For foreign mobile numbers, add the country code in front, e.g., `+60`.
+2. **Press Login**.
+3. If it says "Invalid phone number," inquire with your School AM to check if your phone number is among the bus coordinators serving your school. Bus coordinators in your company will be able to give you access.
 
-## **1. Logging in**
+   You should receive an SMS with your six-digit One-Time Pin (OTP) within the next few minutes. **Enter the OTP**.
 
-![](/images/Operator/osb%20ops%2001%20log%20in.png)
+4. **Press Next**.
+5. If you don't receive an SMS after 3 minutes, **press the Back arrow button (&lt;)** on your browser and try again.
 
-1. Enter your phone number and press **Login**.
-   - If you are using a foreign mobile number, add the country code in front, e.g., `+60`.
-   - If it says **Invalid phone number**, email [schoolbus@estl.edu.sg](mailto:schoolbus@estl.edu.sg) to check if the phone number is registered in our system.
+You're in! The first page you see is the Bus Routes page. If there are no bus routes, you will see a diagram to guide you on how to get started.
 
-![](/images/Operator/osb%20ops%2002%20otp.png)
+### Let's Get Started
 
-2. You should receive an SMS with your six-digit One-Time Pin (OTP) within the next few minutes. Enter the OTP and press **Next**.
-   - If you don't receive an SMS after 3 minutes, press the **Back** arrow button (&lt;) on your browser and try again. If the issue persists, please email [schoolbus@estl.edu.sg](mailto:schoolbus@estl.edu.sg) to check.
+There are two ways to input data into OSB. You may use the above diagram after you log in to guide you on which data entry method to use.
 
-3. You're in! The first page you see is the **Bus Routes** page.
-
-## **2. Let’s Get Started**
-
-There are two ways to input data into OSB: manually enter the data into the system or use an Excel bulk update. You may use the following diagram below to guide you on which data entry method to use.
-
-![](/images/Operator/osb%20ops%2003%20routes-home-flowchart.png)
-
-### **How to Create Bus Routes (Manually)**
-
-- Please refer to the next page for a step-by-step guide to create bus routes manually:
-   [How do I create or edit bus routes?](https://www.notion.so/How-do-I-create-or-edit-bus-routes-b9ec2ab69c2d4c208f1c2426c96ad952?pvs=21)
-
-### **How to Upload Bus Routes (Bulk Update)**
-
-- If you would like to add data via an Excel template, click on the link below:
-   [How do I bulk add or update data using Excel?](https://www.notion.so/How-do-I-bulk-add-or-update-data-using-excel-7a3fd58c3ce64784a377c27b36b3bb4b?pvs=21).
+1. **Guided Manual Entry**: Manually enter bus routes and student data into the OSB.
+2. **Excel Bulk Update**: Copy-paste bus route and student data into an Excel sheet to be uploaded.
