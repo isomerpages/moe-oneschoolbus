@@ -2,6 +2,7 @@ collections:
   guides-for-school-staff:
     output: true
     order:
+      - Managing Bus Operators.md
       - Managing Routes.md
       - Getting Started for School Users.md
       - Navigating One School Bus.md
