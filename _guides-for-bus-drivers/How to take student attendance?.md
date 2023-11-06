@@ -3,43 +3,44 @@ title: How to take student attendance?
 permalink: /guides-for-bus-drivers/busdrivertakeattendance/
 description: ""
 ---
-# How to take student attendance?
-----------
+# How to Take Student Attendance
 
-On this page, you will learn how to take student attendance using OneSchoolBus. The attendance will automatically be sent to your bus operator.
+Learn how to efficiently take student attendance using OneSchoolBus, which will be automatically sent to your bus operator.
 
-**If you are a bus operator, please assist your drivers/attendants with these instructions**.
+**Bus Operators, please assist your drivers/attendants with these instructions**.
 
-----------
-##### Step 1: Select bus route
+---
 
+## Step 1: Select Bus Route
 
-*   Select the **MORNING (orange)** or **AFTERNOON (blue)** bus route you will like to take attendance for.
-*   Using the 🔍 icon, you can search for student names on the bus route
-*   To go back to the homepage, use the **← Back arrow**
+1. **Choose Your Route**
+   - Select either the **MORNING (orange)** or **AFTERNOON (blue)** bus route for which you want to take attendance.
+   - Utilize the 🔍 icon to search for student names on the selected bus route.
+   - Return to the homepage by using the **← Back arrow**.
 
-![](/images/Driver/How%20to%20take%20student%20attendance/driver%20driver%20att%20landing%20page%20v3.png)
+   ![Select Bus Route](/images/Driver/How%20to%20take%20student%20attendance/driver%20driver%20att%20landing%20page%20v3.png)
 
+---
 
-----------
+## Step 2: Mark Student Attendance
 
-##### Step 2: Mark student attendance
+1. **Marking Attendance**
+   - Opt for **Mark all** to mark all students as present. Individually mark a student as "Present" (✔️) or "Absent" (❌ ) by tapping the white box next to their names.
+   - To call a student's parent/guardian, tap on the phone number 📞 next to their name, which will open your phone app with the number.
 
-*   Select `Mark all` to mark all the student attendance as present. By tapping on the white box next to a student name, you can individually mark a student as "Present" (✔️) or "Absent" (❌ ).
-*   To call a student's parent/guardian, simply press on the phone number 📞 under the student name. It will take you to your phone app with the number.
+   ![Mark Attendance](/images/Driver/How%20to%20take%20student%20attendance/driver%20tap%20to%20tick%20v3.png)
 
-![](/images/Driver/How%20to%20take%20student%20attendance/driver%20tap%20to%20tick%20v3.png)
+---
 
-----------
+## Step 3: End/Start Trip
 
-##### Step 3: End/Start Trip
+1. **Trip Completion**
+   - After taking attendance, press either the **End Trip** or **Start Trip** button at the bottom of the screen to notify the bus operator of attendance completion.
 
-*   After attendance is taken, press the **End Trip** or **Start Trip** button at the bottom of the screen to let the bus operator know that attendance is taken.
+   ![End/Start Trip](/images/Driver/How%20to%20take%20student%20attendance/driver%20tap%20to%20end%20trip%20v3.png)
 
-![](/images/Driver/How%20to%20take%20student%20attendance/driver%20tap%20to%20end%20trip%20v3.png)
+   - **Morning Trip Ended**
+   ![Morning Trip Ended](/images/Driver/How%20to%20take%20student%20attendance/screenshot%202023-10-03%20092637%20v3.png)
 
-After **End Trip** button is pressed in the morning, **Trip Ended!** will be shown
-
-![](/images/Driver/How%20to%20take%20student%20attendance/screenshot%202023-10-03%20092637%20v3.png)
-
-After **Start Trip** button is pressed in the afternoon, **Trip Started!** will be shown
+   - **Afternoon Trip Started**
+   ![Afternoon Trip Started](/images/Driver/How%20to%20take%20student%20attendance/screenshot%202023-10-03%20092637%20v3.png)

@@ -4,22 +4,19 @@ permalink: /school/
 description: ""
 ---
 # Navigating One School Bus
-----------
-##### What are the pages on the top navigation bar? 
 
-![](/images/School/Navigating%20OneSchoolBus/school%20navigation.png)
+On this page, you will learn how to navigate the pages within One School Bus.
 
-1.  School: Your school will be shown here.
-    
-2.  Students: Your students who take the school bus, as submitted by the operators, are listed here.
-    
-3.  Routes: \[View only\] Your bus operators pick-up and drop-off routes are listed here.
-    
-4.  Attendance: Download school bus attendance reports here.
-    
-5.  Bus Operators: Add or remove bus operators from your school, giving/removing their access to OneSchoolBus.
-    
-6.  Help: Access to our FAQ guide and contact ESTL email.
-    
-7.  Data Exercise: This is the submission tab for the annual Q1 MOE HQ School Bus Exercise which requires you to input FAS information and verify that your operators data is factually correct.
-8.  Sign out: To log out from OSB portal.
+---
+
+
+### Top Navigation Bar Pages
+**![](https://lh7-us.googleusercontent.com/LDONSWmlv_73Vz6p4rHuhfDv8pnQCWEzoe0-ydOd2FPJge3k2W1OuV76TSgUC5_2np3VYcVdggkXXG2PKFx7mxiF8QeIeBLabQCG3yoPeahDlW6qJIeqDDBX-pLyrm10gtdMGsTxznbXtVuuU-Ozryg)**
+
+1. **Students (Most fields View-only):** Lists your students who take the school bus, as submitted by the operators. You may input the FAS status here.
+2. **Routes (View-only):** Shows your bus operators' pick-up and drop-off routes.
+3. **Attendance:** Allows you to download school bus attendance reports.
+4. **Bus Operators:** View the bus operators serving your school.
+5. **Help:** Provides access to our FAQ guide and contact information for support via email.
+6. **Data Exercise:** This is the submission tab for the annual Q1 MOE HQ School Bus Exercise. It involves inputting FAS information and verifying your operator's data for accuracy. It will turn green when the exercise is ongoing.
+7. **Sign Out:** Logs you out of the OSB portal.

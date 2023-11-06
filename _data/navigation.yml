@@ -6,7 +6,7 @@ links:
     collection: guides-for-bus-operators
   - title: Bus Driver User Guides
     collection: guides-for-bus-drivers
-  - title: FAQ
-    url: /faq/
+  - title: Operator FAQ
+    url: /opfaq/
   - title: Contact Us
     url: /contact-us/

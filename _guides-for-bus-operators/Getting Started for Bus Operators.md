@@ -1,52 +1,38 @@
 ---
 title: Getting Started for Bus Operators
-permalink: /guides-for-bus-operators/gettingstartedbusoperators/
+permalink: /guides-for-bus-operators/busopgettingstarted/
 description: ""
 ---
+
 # Getting Started for Bus Operators
-----------
+
+---
+
 Congratulations for coming onboard OneSchoolBus!
 
-Head on to [**OneSchoolBus Ops Portal**](https://go.gov.sg/osb) to start your experience.
+---
 
-----------
+### Logging in
 
-##### 1\. Logging in
+**![](https://lh7-us.googleusercontent.com/SSuAyqwAHIc03k1IVsnYpdV_STDqklnux9XqYVfeK_QmdKN_jkW1fGJrC2r9x29amNaBTo_PmxWllvnYOJ-OsQJzuyrY1tOlygCD6Qpdrdl8MORIioO3AXtNOTFYvCb818QeT4xaOHC4leS9v3_r6_A3sHndbug-K8JjPsUQ5v4gkdjvFt8MaQBUoJhCUg)**
 
-![](/images/Operator/osb%20ops%2001%20log%20in.png)
+1. **Enter your phone number**. For foreign mobile numbers, add the country code in front, e.g., `+60`.
+2. **Press Login**.
+3. If it says "Invalid phone number," inquire with your School AM to check if your phone number is among the bus coordinators serving your school. Bus coordinators in your company will be able to give you access.
 
-1.  Enter your phone number and press **Login**.
-    
-	*   If you are using a foreign mobile number, add the country code in front, eg +60.
-	*   If it says **Invalid phone number,** email [schoolbus@estl.edu.sg](mailto:schoolbus@estl.edu.sg) to check that the phone number you entered has been registered in our system.
-    
-![](/images/Operator/osb%20ops%2002%20otp.png)
+**![](https://lh7-us.googleusercontent.com/iDTa01F58wJHDWCGGy4rtusd0dIn9suc7vQlPt5_l6PU1vIHCeDzIejrSayq92sDkuvPZNDUQgZtJDcdNFQQhSZabgxo_Wbo17NyLIFfLHm9xyi2mDxbo4MmlyZvouCzMeFwbrB92lf_Ak5ECpAqJzeh3IHfDWYuq9K9pC6EHpbkSZdiDFaE7i2qRXEiJg)**
 
-2.  You should receive a SMS with your six-digit One-Time Pin (OTP) within the next few minutes. Enter the OTP and press **Next**.
-    
-	*   If there is no SMS after 3 minutes, press `Back` arrow button (&lt;) on your browser and try again. If it still doesn't work, please email [schoolbus@estl.edu.sg](mailto:schoolbus@estl.edu.sg) to check.
-3.  You are in! The first page you see is the **Bus Routes** page.
-    
-----------
+1. You should receive an SMS with your six-digit One-Time Pin (OTP) within the next few minutes. **Enter the OTP**.
+2. **Press Next**.
+3. If you don't receive an SMS after 3 minutes, **press the Back arrow button (&lt;)** on your browser and try again.
+4. You're in! The first page you see is the Bus Routes page. If there are no bus routes, you will see a diagram to guide you on how to get started.
 
-##### 2\. Let’s get started
+---
 
-*   When you are entering OSB for the first time, you may use the following image to guide you on which data entry method to use.
+### Let's Get Started
 
-![](/images/Operator/osb%20ops%2003%20routes-home-flowchart.png)
+**![](https://lh7-us.googleusercontent.com/hsYVdgfJ8m3i9jdkyG8lDUY9Wsa0gU_TGEyEaAIVp64P78HoyzMmKcaL6dDK1SLb45ywzoB2SUje03ayU3TdhmYeNP99MbWoz4pa0HdfVEKHJDEl4lquJlhOGOV7khVjmlgy9Glx0vDyJtDibefSgXWKvCxj5G_LR-UdRqz67o34BuO_-elAQFqvu8_9jA)**
+There are two ways to input data into OSB. You may use the above diagram after you log in to guide you on which data entry method to use.
 
-*   There are 2 ways you can input data into OSB, either manually enter the data into the system or if you have your own system, do an excel bulk update.
-
-----------
-
-##### How to Create Route Manually (1)
-
-*   Please refer to the following page for a step by step guide to create bus routes manually
-    
-    [How do I create or edit bus routes?](https://www.notion.so/How-do-I-create-or-edit-bus-routes-b9ec2ab69c2d4c208f1c2426c96ad952?pvs=21)
-    
-----------
-
-##### How to add data using Excel (2)
-
-*   if you would like to add data via an Excel template, click on the link below [How do I bulk add or update data using excel?](https://www.notion.so/How-do-I-bulk-add-or-update-data-using-excel-7a3fd58c3ce64784a377c27b36b3bb4b?pvs=21) .
+1. **Guided Manual Entry**: Manually enter bus routes and student data into the OSB.
+2. **Excel Bulk Update**: Copy-paste bus route and student data into an Excel sheet to be uploaded.
