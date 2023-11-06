@@ -10,7 +10,7 @@ locations:
       - ""
     operating_hours: []
     maps_link: ""
-    title: MOE IFSD
+    title: "MOE IFSD "
 contacts:
   - content:
       - phone: ""
@@ -18,9 +18,5 @@ contacts:
       - other: <a href="https://www.moe.gov.sg/about-us/organisation-structure/ifsd">MOE
           IFSD</a>
     title: General Enquiries
-  - content:
-      - phone: ""
-      - email: schoolbus@estl.edu.sg
-      - other: ""
-    title: Technical Support
+feedback: ""
 ---
