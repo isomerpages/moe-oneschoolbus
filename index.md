@@ -8,8 +8,7 @@ notification: 2024 Data Exercise will begin in January.
 sections:
   - hero:
       title: OneSchoolBus
-      background: /images/Frame_829__2_.png
-      button: Contact Us
+      background: /images/OSB_Poster_6__4_.png
       url: /contact-us/
       key_highlights:
         - title: School Portal
@@ -22,6 +21,7 @@ sections:
           description: to take student attendance
           url: https://schoolbus.moe.edu.sg/driver/home
       subtitle: Managing your bus and student data in one place.
+      variant: image
   - infobar:
       title: What is OneSchoolBus?
       description: OSB allows bus operator to input and manage data relating to school
