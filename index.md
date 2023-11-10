@@ -18,7 +18,7 @@ sections:
           description: Manage school bus data
           url: https://schoolbus.moe.edu.sg/ops/home
         - title: bus driver portal
-          description: to take student attendance
+          description: To take student attendance
           url: https://schoolbus.moe.edu.sg/driver/home
       subtitle: Managing your bus and student data in one place.
       variant: image
