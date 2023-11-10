@@ -2,8 +2,8 @@ title: OneSchoolBus(OSB) Guides
 url: https://schoolbus-guides.moe.edu.sg
 favicon: /images/bus icon.png
 colors:
-  primary-color: "#3182ce"
-  secondary-color: "#ffd2a9"
+  primary-color: "#ffd2a9"
+  secondary-color: "#3182ce"
   media-colors:
     - title: media-color-one
       color: "#49759a"
