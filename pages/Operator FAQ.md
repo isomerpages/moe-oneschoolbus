@@ -2,6 +2,7 @@
 title: Operator FAQ
 permalink: /faq/
 description: Frequently asked questions for bus operators
+variant: markdown
 ---
 ### **For Operators**
 <!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->
