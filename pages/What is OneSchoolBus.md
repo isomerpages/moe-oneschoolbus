@@ -2,6 +2,7 @@
 title: What is OneSchoolBus
 permalink: /whatisosb/
 description: ""
+variant: tiptap
 ---
 ![](/images/osb%20poster%204.png)
 

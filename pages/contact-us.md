@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: OneSchoolBus
+agency_name: OneSchoolBus Team
 locations:
   - address:
       - 285 Ghim Moh Road
@@ -10,13 +10,18 @@ locations:
       - ""
     operating_hours: []
     maps_link: ""
-    title: "MOE IFSD "
+    title: MOE HQ (IFSD)
 contacts:
   - content:
       - phone: ""
+      - email: ""
+      - other: "Should you have any queries regarding OneSchoolBus (OSB), please contact
+          your respective school admin team. "
+    title: For OSB assistance
+  - content:
+      - phone: ""
       - email: MOE_IFSD_SCD_School_Canteen_Bus@moe.gov.sg
-      - other: <a href="https://www.moe.gov.sg/about-us/organisation-structure/ifsd">MOE
-          IFSD</a>
-    title: General Enquiries
+      - other: you may contact us at the email above.
+    title: Alternatively
 feedback: ""
 ---

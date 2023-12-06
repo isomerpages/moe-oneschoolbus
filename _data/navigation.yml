@@ -1,5 +1,7 @@
 logo: /images/bus icon.png
 links:
+  - title: About OSB
+    url: /whatisosb/
   - title: School staff user guides
     collection: guides-for-school-staff
   - title: Bus Operator user guides
@@ -7,6 +9,6 @@ links:
   - title: Bus Driver User Guides
     collection: guides-for-bus-drivers
   - title: Operator FAQ
-    url: /opfaq/
+    url: /faq/
   - title: Contact Us
     url: /contact-us/
