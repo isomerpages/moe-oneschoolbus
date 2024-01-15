@@ -2,34 +2,6 @@
 title: How to add the Drivers app to homescreen?
 permalink: /guides-for-bus-drivers/permalink/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# How to Add the Drivers App to Your Home Screen
-
-Learn how to add the drivers app to your smartphone's home screen for quick access.
-
-**Bus Operators, please assist your drivers/attendants with these instructions**.
-
----
-
-## Android Instructions
-**![](https://lh7-us.googleusercontent.com/F-2HkFGfZBY_pxTv1rYBWHGB-FXtoG4lMRchGTnpI1LGyU_HYDMqb0bBa1YTBRnKfzsJAXL2hnFKN-inDFHsPJBcRjZJbyFroDs60GtTVlpnhQJwFE_8ZecuLWuedasoTaOeqo0EQUw3-e6Mr3PbXCs)**
-**Open Google Chrome** on your smartphone.
-Go to one of the following links based on your preferred language:
-    - [English Version](https://go.gov.sg/osb-driver)
-    - [Chinese Version](https://go.gov.sg/osb-driver-cn)
-1. Tap the three dots **⋮** located at the top-right corner of the browser.
-2. Select **Install App**.
-3. Press **Install**. The app will be added to your home screen for easy access.
-
----
-
-## Apple Instructions
-
-**Open Safari** on your smartphone.
-Go to one of the following links based on your preferred language:
-    - [English Version](https://go.gov.sg/osb-driver)
-    - [Chinese Version](https://go.gov.sg/osb-driver-cn)
-1. Tap the Share icon at the bottom of the browser.
-2. Select **Add to Home Screen ➕**.
-3. Tap **Add**. The app will now appear on your home screen for quick access.
+<h1>How to Add the Drivers App to Your Home Screen</h1><p>Learn how to add the drivers app to your smartphone's home screen for quick access.</p><p><strong>Bus Operators, please assist your drivers/attendants with these instructions</strong>.</p><hr><h2>Android Instructions</h2><p><strong>Open Google Chrome</strong> on your smartphone. Go to one of the following links based on your preferred language: - <a href="https://go.gov.sg/osb-driver" rel="noopener noreferrer nofollow" target="_blank">English Version</a> - <a href="https://go.gov.sg/osb-driver-cn" rel="noopener noreferrer nofollow" target="_blank">Chinese Version</a></p><ol data-tight="true" class="tight"><li><p>Tap the three dots <strong>⋮</strong> located at the top-right corner of the browser.</p></li><li><p>Select <strong>Install App</strong>.</p></li><li><p>Press <strong>Install</strong>. The app will be added to your home screen for easy access.</p></li></ol><hr><h2>Apple Instructions</h2><p><strong>Open Safari</strong> on your smartphone. Go to one of the following links based on your preferred language: - <a href="https://go.gov.sg/osb-driver" rel="noopener noreferrer nofollow" target="_blank">English Version</a> - <a href="https://go.gov.sg/osb-driver-cn" rel="noopener noreferrer nofollow" target="_blank">Chinese Version</a></p><ol data-tight="true" class="tight"><li><p>Tap the Share icon at the bottom of the browser.</p></li><li><p>Select <strong>Add to Home Screen ➕</strong>.</p></li><li><p>Tap <strong>Add</strong>. The app will now appear on your home screen for quick access.</p></li></ol><p></p>
