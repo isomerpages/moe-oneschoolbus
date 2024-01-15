@@ -12,13 +12,13 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: School Portal
-          description: To view school bus data
+          description: For school users only
           url: https://schoolbus.moe.edu.sg/school/home
         - title: bus operator portal
-          description: Manage school bus data
+          description: For bus operators only
           url: https://schoolbus.moe.edu.sg/ops/home
         - title: bus driver portal
-          description: To take student attendance
+          description: Bus operators and drivers only
           url: https://schoolbus.moe.edu.sg/driver/home
       subtitle: Managing your bus and student data in one place.
       variant: image
