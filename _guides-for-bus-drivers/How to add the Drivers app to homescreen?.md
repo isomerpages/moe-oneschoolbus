@@ -26,11 +26,10 @@ Go to one of the following links based on your preferred language:
 
 ## Apple Instructions
 
-1. **Open Safari** on your smartphone.
-2. Go to one of the following links based on your preferred language:
+**Open Safari** on your smartphone.
+Go to one of the following links based on your preferred language:
     - [English Version](https://go.gov.sg/osb-driver)
     - [Chinese Version](https://go.gov.sg/osb-driver-cn)
-3. Tap the Share icon at the bottom of the browser.
-4. Select **Add to Home Screen ➕**.
-5. Tap **Add**.
-6. The app will now appear on your home screen for quick access.
+1. Tap the Share icon at the bottom of the browser.
+2. Select **Add to Home Screen ➕**.
+3. Tap **Add**. The app will now appear on your home screen for quick access.
