@@ -1,0 +1,12 @@
+collections:
+  guides-for-school-staff:
+    output: true
+    order:
+      - Getting Started for School Users.md
+      - Navigating One School Bus.md
+      - Managing Students.md
+      - Managing Routes.md
+      - Accessing Attendance Reports.md
+      - Managing Bus Operators.md
+      - Requesting Access to OneSchoolBus (OSB) in MIMS.md
+      - MOE HQ School Bus Exercise (Schools).md

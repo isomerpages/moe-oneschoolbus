@@ -1,0 +1,58 @@
+title: OneSchoolBus(OSB) Guides
+url: https://guides.schoolbus.moe.edu.sg
+favicon: /images/bus icon.png
+colors:
+  primary-color: "#fda043"
+  secondary-color: "#3182ce"
+  media-colors:
+    - title: media-color-one
+      color: "#49759a"
+    - title: media-color-two
+      color: "#744d9f"
+    - title: media-color-three
+      color: "#00838f"
+    - title: media-color-four
+      color: "#00838f"
+    - title: media-color-five
+      color: "#00838f"
+description: OSB user guides for school staff, bus coordinators and bus drivers.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d2cnyhs4f83amk.amplifyapp.com
+prod: https://master.d2cnyhs4f83amk.amplifyapp.com
+facebook-pixel: ""
+shareicon: /images/bus icon.png
+is_government: true
+google_analytics_ga4: ""
+linkedin-insights: ""

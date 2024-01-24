@@ -1,0 +1,12 @@
+collections:
+  guides-for-bus-operators:
+    output: true
+    order:
+      - Getting Started for Bus Operators.md
+      - Create Bus Routes (Manual entry).md
+      - Upload Bus Routes (Bulk update).md
+      - Managing Bus routes on OSB.md
+      - Managing Students on OSB.md
+      - Managing Company and Staff information.md
+      - Accessing Attendance Reports.md
+      - MOE HQ School Bus Exercise (Operators).md
