@@ -18,7 +18,7 @@ description: ""
 <h3>Steps to onboard and receive email notifications:</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://guides.schoolbus.moe.edu.sg/guides-for-school-staff/schoolrequestaccess/" rel="noopener nofollow" target="_blank">Request for access to OSB School Portal via MIMS. </a>
+<p><a href="https://guides.schoolbus.moe.edu.sg/guides-for-school-staff/schoolrequestaccess/" rel="noopener nofollow" target="_blank">Request for access to OSB School Portal via MIMS.</a>
 </p>
 </li>
 <li>
