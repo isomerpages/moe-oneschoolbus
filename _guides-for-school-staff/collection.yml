@@ -2,12 +2,12 @@ collections:
   guides-for-school-staff:
     output: true
     order:
-      - Email Notifications.md
       - Getting Started for School Users.md
       - Navigating One School Bus.md
       - Managing Students.md
       - Managing Routes.md
       - Accessing Attendance Reports.md
       - Managing Bus Operators.md
+      - Email Notifications.md
       - Requesting Access to OneSchoolBus (OSB) in MIMS.md
       - MOE HQ School Bus Exercise (Schools).md
