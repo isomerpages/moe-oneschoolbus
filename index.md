@@ -4,7 +4,7 @@ title: OneSchoolBus(OSB) Guides
 description: OSB user guides for school staff, bus coordinators and bus drivers.
 image: /images/bus icon.png
 permalink: /
-notification: 2024 Data Exercise will begin in January.
+notification: 2025 Data Exercise will begin in January.
 sections:
   - hero:
       title: OneSchoolBus
