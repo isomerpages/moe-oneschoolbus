@@ -9,7 +9,9 @@ variant: tiptap
 your company profile.</p>
 <hr>
 <h3>Accessing Staff Accounts</h3>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Operator/Managing Company and Staff/OSB_Ops_33.png">
+</div>
 <p>From the top navigation menu,</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -31,6 +33,9 @@ of their name into the search bar. The list of staff gets filtered as you
 type.</p>
 <hr>
 <h3>Headers of the Different Columns</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Operator/Managing Company and Staff/OSB_Ops_34.png">
+</div>
 <p>Using the screenshot above:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -68,6 +73,9 @@ the staff access to the Driver’s App for the routes listed under the Route
 name column. Coordinator role gives access to the Operator’s App and all
 the information inside.</p>
 <h3>Add, edit, or delete staff accounts</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Operator/Managing Company and Staff/OSB_Ops_35.png">
+</div>
 <p><strong>Adding a Staff Account</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -85,6 +93,9 @@ the information inside.</p>
 the staff access to the Driver’s App for the routes listed under the Route
 name column. Coordinator role gives access to the Operator’s App and all
 the information inside.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Operator/Managing Company and Staff/OSB_Ops_36.png">
+</div>
 <p><strong>Editing an Existing Staff Account</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -96,6 +107,10 @@ uneditable.</p>
 <p>Click Save Changes after the edits have been done.</p>
 </li>
 </ol>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Operator/Managing Company and Staff/OSB_Ops_37.png">
+</div>
 <p><strong>Delete a Staff Account</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -116,7 +131,9 @@ all linked bus routes. Please edit the respective bus routes to assign
 new drivers or attendants to them.</p>
 <hr>
 <h2>Add a Relief Driver</h2>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Operator/Managing Company and Staff/OSB_Ops_38.png">
+</div>
 <ol data-tight="true" class="tight">
 <li>
 <p>On the top navigation menu, select Routes, then select Bus Routes and
@@ -137,3 +154,4 @@ If you enter an existing Driver/Attendant name, you can auto-fill their
 mobile number. Mobile Number: This mobile number is for your relief staff
 to log into the attendance app, so make sure this is correct. For foreign
 numbers, add the country code in front, e.g., +60.</p>
+<p></p>
