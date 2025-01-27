@@ -7,6 +7,9 @@ variant: tiptap
 <h1>How to Add the Drivers App to Your Home Screen</h1>
 <p>Learn how to add the drivers app to your smartphone's home screen for
 quick access.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Driver/Add the drivers app to home/OSB_Drv_08.png">
+</div>
 <p><strong>Bus Operators, please assist your drivers/attendants with these instructions</strong>.</p>
 <hr>
 <h2>Android Instructions</h2>
