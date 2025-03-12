@@ -122,3 +122,8 @@ to MOE HQ as of the last submitted date and time.</p>
 </ul>
 <p>Upon submission, you can also click the RESUBMIT button to resubmit current
 data to MOE if there are changes made by the bus operators.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School/MOE HQ Data Exercise/Screenshot_2025_03_12_at_6_37_06_PM.png">
+</div>
+<p></p>
